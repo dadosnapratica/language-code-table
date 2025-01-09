@@ -1,0 +1,1181 @@
+[
+    {
+        "language_country_name": "South Africa",
+        "english_name": "Afrikaans",
+        "portuguese_br_name": "Africâner",
+        "native_name": "Afrikaans",
+        "subtag": "af",
+        "country_flag_url": "https://flagcdn.com/16x12/za.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACVUlEQVQokU2QTUiUcRCHn/d9V1dN2U1btdzIUoNSLOkLPVQHoUMXRUmMgq6h0iEiqENKEGSnCCLE6EMouuSlQ6eoU/lBlofSLFA2dctVK9dad///mQ6r2cDw8DvMM8w42Z2n6kzKtLTvOXroTEao+Of9O46Nx5dViIiYzyifEPsl6brTauyCpoznQFjFHsSaFodLJ5QsH3gO+4u3c6+umeDdXpZH37FiDUkrJK0hZQQrgorgqeBXiCWTeOeaNnYub9jAd+NjJr5A38QQVY2t1GQF8CbGyHUdAq5L0OeR77nkey5BzyXXdZhNJPEKfi12Xiidp7k8ydulLKJ/LP1jA5g9NdTvO0xy8DVqDKxuVxFUFRVhLpCPAyhA1Y5MbrQV8TyvlJuRAlDhWFkNjw40kDk5hYnOIIkEKHiFRaQqKuh+82JdsFa95zfh31vC6Q9hUAURtgVClAYLQQRUiS39YGx2Eju9uC5wXbhyOsju+jDnJjYzk/BWBfpPhKxRwArlNi8tyPY79F0u5FmgjPszARAh0/VxtvY4TZWHicZjRBbnWF75jc/xCOUG2JoR5umDVzjZfkcfdm2h2+5k6KcfRGmorOVi7Un6H09xq2cA14HiwhzCJXkkEikmp2J8+/YLTATnWltIHxRVM76UQSgnj9uNHUQH/XRdf0VsPp6+UOU/SppqwUbw9VHK+LShumAzHbuaudb+kpH3s4ADuKvtrWbSg5oC/QNq8X2MZw77ME+uHmkd7OkZ/ToyPGXJIh8rJYiW4chOVMpBwojkpj9qo4gdwMqTv4q/LeuwzdjbAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Ethiopia",
+        "english_name": "Amharic",
+        "portuguese_br_name": "Amárico",
+        "native_name": "አማርኛ",
+        "subtag": "am",
+        "country_flag_url": "https://flagcdn.com/16x12/et.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACEklEQVQokVWSu05UYRSFv//MYYYxBCK3weEiBiQYVGIjiY2dxtCLiU9gKHwFK0PjI1haUKIFhZUkGC8kFhaISkJEBgiGyzgMM3PO3stiBGOxs4u9v6ysrBV6n9251UiTGU9tytz6cA9BOpa0KffvQf41Mq1nFG3VEtvH0wwRA7LkpsxnQtvcbZHPQAYIQhIyg9RRkqLEIDGUOpgjOeAoAn43iGVOyGfBDbkAQQRRZZh4axI7t0syuEzAkDvIwZ1gjg7rxJiBG4O5Gt1xguTsH3RTW5smn0moHg5QOeqlfGW+qe4OLjCnmEuIHw+XeDRVoZirN9Ulniw85FW2yqWubaJgLK1OcO96N5eHVgkS/a0JU50nJD9OiB8U9yjmojMYxPpugYvnSwx17lCu5pmefEfvySBPry01f/46fbsB0Zlv/ZvO/BHfti9QqeZob62w/GWMg0r+PxgJNxF7KmqfMtQ+x9ihUA1ulNd4bRPEUYN6I6J8nONS184ZiKBRChwsxoTFkYJGj7LITyMSLpgdn2W9p49qLUur1XmxNUd/cR+vQb0USH7BiqWElx0FjWdiJG92gGYXjqMczwt32Wnp4P7eG64eb5zdTvdHSwkL7T3qIFCV05BwRFCzVy0BckAWiIFIwoG6nLLEphuxw8qefN4VPqRp8hOCpVFLJ6T9uEYIGnMYFRpwp01IBjsmf5+az/8BQuJiTW4mkdIAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Arab League",
+        "english_name": "Arabic",
+        "portuguese_br_name": "Árabe",
+        "native_name": "العربية",
+        "subtag": "ar",
+        "country_flag_url": "https://flagcdn.com/16x12/ae.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABcElEQVQokZWQzWoUQRSFv+ruCMOIGXTQEWshKNqaRVbx7wF8hTyGwWeaTR5kFoqgCwWRBFtNQkZIhAzDtFNV97iojvgXJB8UVdyqc+re43Z6vScxhE1JD002Wnv2yBWmuUxfnGwHsw/OtFtQ7IcwP0ZVWTm8xfDAkm1WcbGYDIEeUDhg9QKWEkS7p8hTgiAaKQYoSrBERLACLBOVgCtkEgAGTlB1jislyIEJVIIZJMv7yTIbnOKcY+P6XdplS3N8wKyddUIDKYvMIOWzv3QV9w50/9ShLCHGn4aHsyPef/3I7tEen74dsPje4gC/eo3HN9cJ+ye4t6C1Mwz+x2Qyofh1BKSz3v4TM/s9A5N4vrXFYDDAe09d19R1zXA4/EvcNA3j8Rj3BrTeFRM5/D/p9/uMRiO897RtS9M0TKfTfPk6Ny6BIohzrkrAZ2AOtOdKIFMJXk1hO8BLg71uksvADeAWcAe4DXjgYvfzIfAC2P4BxEPEW97N2jsAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Chile",
+        "english_name": "Mapudungun",
+        "portuguese_br_name": "Mapudungun",
+        "native_name": "Mapudungun",
+        "subtag": "arn",
+        "country_flag_url": "https://flagcdn.com/16x12/cl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABo0lEQVQokY2PO2uUYRSEn3e/b9cN7KpEBUnCxhtqxEYEBQsLC1s701n6P2wsrMXSPrW/wMLCmDSCjWgajZrsJqDm9l3OjMWuiYsSHDjNOTMPc9LEvee3qsrzjrip8GlL6dnDK9u3r574BHyw/T4iPgKrkjYjIsuybEbSjZTSfL5b6hVZh2OdCb5vB8hMTc/S603OFUVxtyxLiqKgqirqugYgz3Pa7Tb9fp+cEGdnTvHkwWWevljh5dsBrdYRut0u3W6Xw7S2tkaDCFbXd1CIra0KQtg+NPhbkoYNVIv5x29ABgn+L38AaJc7zJWr9OoBSeL4u8Te0Us0e7NknX+/YZufS4ukR9fu+H7+lUbUIGEJj5rYpjF5ktaZc+RT06SUsEy1ucHW0iLL/Q3y6+UKDZpYOgDY+6PBOlV/fWxnG8mERK4QVuAYhtk38UeAvwCWkT0CxEH1cSNDIOMQjXxhk1viy17JbohydExAhmkCrQRNEk1MGkEKmR8RSCaXvTSQF2rSIvJnqjLqVnOS2tNKOo/SRdkXbM/I7ti4lr7Zel04LfwCQb9pbkZBbZ0AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Morocco",
+        "english_name": "Moroccan Arabic",
+        "portuguese_br_name": "Árabe Marroquino",
+        "native_name": "الدارجة المغربية",
+        "subtag": "ary",
+        "country_flag_url": "https://flagcdn.com/16x12/ma.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAsVBMVEWZISWYISWwPkKwOD6XIieEFBebHiOVHyGrMTeZIyaKFhqtNjyoMDamLDOoLzSLFhuHFBiEExd/EhV7EhLAIzm6ISbAJSu+IynHMzm4HyTFLjS8Iii1HSLBJy3HNz3GMDbDKTC4LTKaGyCiJCmoLTHEKzKtMzitGh+pIiZiRDBtPy7KOUCsKCylGh6IFRiyGyCfHSKVGB28MDaOMSqKOC+PGByBERWgLSp/NSuSODC9OUD1lRuwAAAAFHRSTlNxPjqRMc/LIOFMucjWlbmV4eCROv4qC8EAAACeSURBVAgdBcFBUsQgFATQ/tAJo5jJAi0tD+D976Q7FynNaKB/EN+zYJcOhrHfeYTGbG+PH4BeN2QcmKBYPEnQ0BHO81afCOxC8ocwvDcjwt+uFEq6vvTfZhQJJc/b5ceW9ZMiApJnP93GslGMjcOz9/Y8JhcYAWKuDfZOFSKiDKI3AyV+RRTUlUst30C6dgh1vofNshl9Olb3bLfF/gF7z1CIHmHAZAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Assamese",
+        "portuguese_br_name": "Assamês",
+        "native_name": "অসমীয়া",
+        "subtag": "as",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Azerbaijan",
+        "english_name": "Azerbaijani",
+        "portuguese_br_name": "Azeri",
+        "native_name": "Azərbaycan",
+        "subtag": "az",
+        "country_flag_url": "https://flagcdn.com/16x12/az.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB5UlEQVQokU2QTUuUYRSGr+edd2Yc1MTpAzOT6AsKClz0QYtW/QURWrVr3b6/4ioIxEV7l4GR0aYWQmZCqZDjOCrj6Mw773PfLd7RXBxuOOe5rnN4Qm3x07N+7jlHP5E9YTkkVsdmM4h17LWg+CuJ3u7HpEVyUkpVnlKMj2XPBd4vm9FxqAxBUgKAXJBnkGXQP80+xAg2hBKUq7DfJEWG0fFiYIosA2kFqqe9QZ9BalDNBikS2Ezv73G508Yy3VLKn7E6R+VaQZ+XnAqimWw1SN8sL/F6Z56rBy2QsAQSyc0bNGdmWP22xkZ1lM2xOielMkFi8qDJo98/6K9/J3x++sL3hmoQ4xmMROXVS3rz7yg9uI82t1CzBRa2zxatHLdJHSOOsfigAWwJdzpQrZBcn4IQUGO3gO1iLiGJNHfk55UeG5cy2tWcXojUulBfXWR69jkXPywx0ur9326BTGM45+NEjzD79qF9p0xURCoeSUXZxjKVzFw4CtTbgV4idoZz9qricP2E9KDSZ0QJGpx0HpYKwXFijkbM9vCpXCgaRZFGic5ul6wbUVYIjCGBkARCCpSABKAQ5JnodyIxmlTy1+6hFsj5oqy/paQUbdUjvuacW8J3Ld+2NRWjR4jY0t8oVpznC/8AygmFXi/hgx0AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Russia",
+        "english_name": "Bashkir",
+        "portuguese_br_name": "Baxkir",
+        "native_name": "Башҡорт",
+        "subtag": "ba",
+        "country_flag_url": "https://flagcdn.com/16x12/ru.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtklEQVQokX2N22qTURCFv53sJH9ao8QGbEgVoaL0yl4pCj5H38lbr32Agm/gA4j1hHehRttqWxITaukh5j/MLC+SHjzgwDCLxaxvhV6v97goijVJD4FFScHdT4FvQE/Sppl9Bvbc/cDMyuVyecndH4QQ1kK321Wr1aJerxNjBMDdyfOcNE3Jsow0TcnznKIoAIgxkiQJw+GQKImFhQX+nCRJaDQaf/mXZzAYTAEAO4Mxw8MUgFqlxO3FORpzlf8CtvePiU9ffOLl5lf2vo/BBe6zKxabNe7dbLDcnufWjTnqtRJysTs45dXHPu/ebBB48kzUO2AXwfPVzNPZ+rRADm5w0iNiNg3b7+3ngH+Fz7Q7sWQFq9kWq9k21+yEmmUckTCgwZfQYiu0OKR+AZtB2sUB97MPhOcrK3pUnSBz5NMnSbPiqR5TZcQ8/XCViue07QdNO+L9JCc2iyNUjsgduc5DlyE1JnQ0oa3R1J/9mUSUG/sT56c5mYS7CEAZEQlUA1SBCJQkXCJ1cWyOuYgu3o5c605pI3Xf9TwzqpXrpYJOCLZsrrsu7kgsSbrikszVN/lrk63/AkXyWR36laTFAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Belarus",
+        "english_name": "Belarusian",
+        "portuguese_br_name": "Bielorrusso",
+        "native_name": "беларуская",
+        "subtag": "be",
+        "country_flag_url": "https://flagcdn.com/16x12/by.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABqUlEQVQokVWQwWoTURiFvzszSZOgUQwUwUARSyGg4EYFH8BX6Ou4cO07uOwTiODWhVV8ANGFbWwsbdMIJpPMzD3HxUwSvXA5P4f7f+f/bzh++ep5eTE9/P32/TNLd20Fw9zSqfA3W19tvivzz1DE6VIxzZQO5eqpVR1mxXT2oV9FumlKmiTYIkpUMCoUXxSGQqJcimjRlUlc0sZcyWS0Wgz6t5hhbGGZ1KaF6YQASYIBQsAOONQhtrmoKjKVJcX5CZY2l+ZBXRvbW89CjRcRyerHCe39+zhGrIglJG3qWiNq/HWzbKJN1nn8qB5PalaoFXmTCMambmQLkE2mKJLezjax+QcsvG5kDVsDQFY9gS2uzs9487DFddusgrm5jOzOxd51ZG9W0V96C6FOnvTg3e2UbP7pCxoNef2kDapHRxlNDMh0CzFYiN0/kVUwk25g2jac5WTt0QHpYAeW+gfg/wB5YsY9GHeSxhPEWjPlOZPTS2ABVQMw9UmBACShVhpoGSGPEE1WLfLPi1Y8QhxTlmNII9Id7HuIB9gHRO9jDZFvIIz0C/ERc/QXfyOaRYVSZgoAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Bulgaria",
+        "english_name": "Bulgarian",
+        "portuguese_br_name": "Búlgaro",
+        "native_name": "български",
+        "subtag": "bg",
+        "country_flag_url": "https://flagcdn.com/16x12/bg.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABwElEQVQokX2PzU5TURSFv9N7Wu4VbqAUkwrEmGBkpMaJRl+EqUPfxHdw4BxfwQcwEJk3pipEKjRFftIWuNxz9nJw20o0cScrO2dnre/s7brd7qsQwpakF0BbkjOzMfAD6Er6EmP8CvTM7DTGmCRJsm5mz51zW67T6WhlZYUsy/DeA2BmlGVJURTc3NxQFAVlWRJCAMB7T5qmDAYDvCRarRZ/V5qm5Hn+z/x29fv9CgBwMDpjcD0GibnE82ChSd5I/wvYvzjBvf7wTh/dGb3RBcjArOoS7XSezcW7bOQt7i8skSUemTgcnvKp12VvZxfH2zeivQwWbwE0g8zeU7AJYqy038cTYxWeGaYbTMzTfhsUJ/5o+FoIPDs84mmvz9LlNY2yZNjwHN/J+NbM+b6Ycz5X/xOeaPV8yJPOAe7943t6GUpkhkwgkFRdISHg0iecZHMczWc0ysjqxZjm+Jq9IuCbo0vUSJCpkkBMARUkLQJrRcnq2QiZqoskosDLxM8icBVFYdWPTiIB6s5RBxqAF9SowoWJoYko4U18/mXaDmiXEA6pEa9cbbkWWXPYhsk9Ejw0Y12yBQNFcWxopwxx+zd++UrKVwJv6wAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Bangladesh",
+        "english_name": "Bengali",
+        "portuguese_br_name": "Bengalês",
+        "native_name": "বাংলা",
+        "subtag": "bn",
+        "country_flag_url": "https://flagcdn.com/16x12/bd.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAArlBMVEUAUj0AQS0CVkEBVkICXUcAa1QAVD4EYUkDa1UAQSwATjcAOSgAPioDb1gCaVIBZlAAQzAARTAAXUQDZUsAaE0AclcBYkgAeV70KD4Ab1T1MEjzJTsAYEUAdlwAa08AVz4AVDsAUjoAUDoAWkD1LEQBW0EAbFIAfGEATDZcSUEARDAARzH0K0LiMEMAPitoWlS7PEeHQkJEVEcrVUPWOksAOiijNjxOWE09YlKrRk6H7kAZAAAAEnRSTlMgkzFMceHLPJPhcTrIyNa51bkpgbD0AAAAoklEQVQI1xXMRxKDMBBE0SGZ4CwQQggQOZrk7PtfzMPfvaquBtM6GsbpbOmaCmDqO6AxYyymtef6BMuANw1j8/L7cl4nnptD3bB4DrHPZr8FD/fPMCzL0UVHLbgxpchbENzRZACfUj4iA9Ghqx4iPFs3i0dECtkD4fi1CCHepCpkOkGReHjWrV21OZtAEpnlWIpl7fCCnWMCqJqjXC+2fVD2f7PlE+SubXcRAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Tibet",
+        "english_name": "Tibetan",
+        "portuguese_br_name": "Tibetano",
+        "native_name": "བོད་ཡིག",
+        "subtag": "bo",
+        "country_flag_url": "https://flagcdn.com/16x12/cn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAt1BMVEW9FyDLJjHKKjCwDxa/FR27GR+6HiS7FR67GR+uDRSwDhTBJCqvDhOxFRqrDRKtDhPIIi3KJTDLJzHtGSHrFR3uGiPuHCXsFx/sGCDvHSfpExrvISvwJC7vHyixDhXAExrwKDDYEhnGHyjIExu5EhnwIyvGGiPXICrxOS3qKDPyUh/LGiLSFx/CFyCrCxH0bx/JJC7xYSf80grfExriExnhEhjwMynKDhT2hh3pSy/fLDfNKTXLJzOYq9JTAAAAE3RSTlNxk8+5yz46IEyT1THhMcjgueHgRqUxcQAAAJFJREFUCNclzNEOwiAMheFDKTCNCToTX8b3fxcvjBpdYI5CHfPyy39a6xudhiV+MQRiamyuqi8McwO4wJkPm2TiLceUQFIVkaaMLBISdTcLBh7AYdpycwp+N9E9PVd214UhShOk02pdX0P/a6zzCg/mIrKxZw9Q6HZb7j4yzln6ZcNozP2SDYsj+DLvlkBWS/0B7KFVHvCyRgEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "France",
+        "english_name": "Breton",
+        "portuguese_br_name": "Bretão",
+        "native_name": "brezhoneg",
+        "subtag": "br",
+        "country_flag_url": "https://flagcdn.com/16x12/fr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABaUlEQVQokZWQv2oUURTGfzM7yY7GaSzUTUIsFMFWwaCFpa+QJ/ExBNP4DnkQCyWNlSKJCCoouoKEdebOzvk+i5ndJOw2nuYc7uX7m115fPhk3vrA1r5Ctyxlr54/nD19cPMLcGL7Y0Sczo/ffWtfvPxdRzHK3O3m8iMUB0Wd/Jr8KmQFZDlYbO/cZm/vxv2U0rO2bUkpMWvndCrYshgpowR+hihQQLEFElignM2NTaqqoqoqFpMmE/5ujLEEEpb40TYURP+w3BI2q2PjiOHf2EL24CAC5CUBrGGwe3ULayCQKC6rDyRrLNge1LW8w6IgAkaCuOBgXQTAjgG8iPAfDvoIPXARp+8gAnJdUHevssowgFc6iHOwBKwv8XIHvdvzCOkXqAHNAfH50wfeTxLj8ZiyLCnLEjU1jTos0yj4o24o0TpGZ0dYb5G+krehrr4+nU53gDuS7gF30+nJ7izV1yRb6LvsN6199A8sj1xU2A1j0AAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Bosnia and Herzegovina",
+        "english_name": "Bosnian",
+        "portuguese_br_name": "Bósnio",
+        "native_name": "bosanski/босански",
+        "subtag": "bs",
+        "country_flag_url": "https://flagcdn.com/16x12/ba.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA5FBMVEUBGG3QqwMmPGJHZqQAGG4JOZEEM5AAGnIAHHbQpgPTrwHTrwLTrwJla0vRrAIxU5wAEFoAGm0AEV0AFWdjbJM0O14AE2UAF2gjKUsAIZIAGHUAJJcAHo0AKJoAMZ//zwAALJ39ygH+wwAAJoMAHoH9xwAAGoQBNKL/zQAAHXoAFGU4RG0AFWwAEFwAHIl4isUAF3/ZsAAsRJw3V6w0PWEALYtKXo2Dl87+ywB7d1I4QGc5SHLxvwHKqh9KYbIvT6oAMpDkugAySp/xxgDCqiFSb7uNotHMpRtLVn97bEV2g7XClxl9iNRGAAAAGXRSTlM8TCLIIDqRcssoudaV4W/gkTHIldXhuUzgGRnB2wAAAKVJREFUCB0FwdFOwkAQQNE7M1vsNiWuVWPCi4lvfgP//xskPilg4yopsMBOPUcaqb37rHpoKX4nYb2Jr+PDXJoMljkGIh/pb+8ReJyQMHGiH+wHSGBJOaHjbvFMKttsYBGp89TdjgeClaEqVJxr+xRCZTijVBz//I1vlfszqLi7Y+MoK6AzbXAwBtsvuXSgxCTi/v31sn1nd0PauQSWi9ybi108/wNyakc6KOw6fgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Spain",
+        "english_name": "Catalan",
+        "portuguese_br_name": "Catalão",
+        "native_name": "català",
+        "subtag": "ca",
+        "country_flag_url": "https://flagcdn.com/16x12/es.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABzklEQVQokV2SS2uTURCGn3P5ktpL1GKwN6G0KrhwJVpw7cKNGzf1FwrdivgbrIggFMHaCtpG2lpra5rku515XSSSIMPLDMM8wwwz7vXSw8dWFZtmaUNmCyY5OfWEHZhpT852cewr+o5101lBCj5qBaVHZrbpXs3f11XnaSCChCRMRkWiNKOUUSpRyUgIyfASDYlfJKIp0fIBYWQ3C0BU547Yd0zhkHNAQHiEIRxCmBNnzZJ4/ekpd55dMr3Wx3mo6kBeZ0xXJfmPjPwwIz+I5McBJQEitBKteyVhJifeeH7CzCogGPQcOx9m6RwFNjbE4nrBzFoBQ24sG+kTeE0kO8e3+Po2ErsvOKyeMCiyYeEkNCFL4PUvISi7S1xrV3y52EHfC3rHcQinCXAiNoMoG4+W2iesPkiE3VP8XI7mGmCD8QT/eSWIKYff21fofc6Y6pwjNVhrdWgMatxFTW8xMr1c45gADf7sB769ibiX7QWt9ptINjyPxNgY/YVothNyQiaKrqPK4aMqYnUJRyrpY1SjBowuH3FkQAaEnw6v4QYFoisjScQE78+cturg31lth1aUybJs3jzLjrQu011z3DZYMWlWSEk6Mmw71WnrL2HwSP/J/ngcAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Iraq",
+        "english_name": "Central Kurdish",
+        "portuguese_br_name": "Curdo Central",
+        "native_name": "کوردیی ناوەندی",
+        "subtag": "ckb",
+        "country_flag_url": "https://flagcdn.com/16x12/iq.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA21BMVEUAAACzHzKrEyWoFiW0GjG0GjG0GTAAAAAAAAAAAAClDyMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwFy2lDh3///8AAADPEijQFy/LDyLExMT7/fzUHjfRGzW3GTCwDyHo8+1zc3MWFhbU1NT66OrbSFzFFi51tJOt1MDjfYi0EiaLi4sjIyM3Nzc/Pz/Ozs7f3993uZd/f3/2+vgLCwubm5vFgoyGv6HZQFPR59vr6+tgqYPT6N3so6vYN03E39HlhpBmZmbzxMnGHTfomKDzzdGgDBqiDByjJjKW7ieRAAAAFXRSTlM8NXFFk8/hccrhIB8xIkzVlbmRucsjXuVvAAAAkElEQVQI12XJ1QKCUBBF0aHDDtALFwSl7e7O//8iB+VJ19vZBxheEEWhxrMco6ocWwf7allWMwjsJGmhJ9iUYkANRMgDw8H3V/Q7CXnBwtNS3mV/iuPb3YAOLtOJdmvnmB5ZGC/DaBtOP2FodF13Mjc2pmNq2ugMbT0z6w36OED/8R9kCQq5fFEqV0qKIlfhDbE1FP4UCHVjAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Italy",
+        "english_name": "Corsican",
+        "portuguese_br_name": "Córsico",
+        "native_name": "Corsu",
+        "subtag": "co",
+        "country_flag_url": "https://flagcdn.com/16x12/it.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABaklEQVQokXWRwWoTYRSFv0nHzLQ4KG5qbclGEX0AFVx06SvUnU/kwoW+Qx/EhZJ9qRoQqiDoFFTa5J/MPcdFJkMMyYULd3MO53w3233z8vk82hPLz6S4a0X27smrq+P9RxfAF9ufImLyezz+/uv128tZtDv5Tn6kJp5acZJPo33PXg55BpnB4t7okNH+6HFK6UXTNKSUaOZm4AG75AxaM8wyaomcCNgrQAIZMMNiSFVVVFXFcm4dHHBjWGCp359NIkfBYrVYC9usj20cgSVkY4uwyIlOuDSxYIMBNpKwhWVkEdJqghUDtiSQUJdQ3b1gEAFerbHJgF5kdwnstQReGGxkgDtxx0BC/Rf+q+AtDOgYdEbqIa59YVuFlQQ9xL5CfQ2zOcwDwnw9n3DW3KYoCsqypCxLrqZTUrTIJkn8jXb5BY/505wS+kjDNwYRmqY7dV0fAvclPQQeXE4+H12k2U07HOJHWB/C7ek/969sAGexO4kAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Czech Republic",
+        "english_name": "Czech",
+        "portuguese_br_name": "Tcheco",
+        "native_name": "čeština",
+        "subtag": "cs",
+        "country_flag_url": "https://flagcdn.com/16x12/cz.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABuUlEQVQokY2Qv2tTcRTFP9/kpUTxByqIaBZpEZyVKgV1KR3EQelQnFysCA6KLl0U/wH/BKEgFPoHOIsO1SQFB7O0REqt0ZI0kSZWfHnv3uOQPEVByIXDGc69h3NuqNfrU2mazkm6AJyQFNx9D9gC6pLWzewj0HD3jpnl8/l8yd0nQwhzYeruM02fP8v8tUmOHzkIgLuTJAlxHNPv94njmCRJSNMUgCiKKBaLtFotwsnrjxXtP8a+sTwPZy9y++o5crnAKFOtVsnJDDentxfzdPEVs0+W+LLTHcnA3cm5G+6G2wArHz4x/eA5b2uboxnIHDcnYzej2elxY+EFiy9X/3ssd3rvykRuRhjWkDvuQu6c3t2mcO8Oa48SxibGKZRKKBfARdLe4Xu5QqPTJsp+kBkc6v/g/tYKM506QqRdSJpNJBBCGsARJgYJGEa/9G2Dhc03HE5//lmGv1n6rblE5OZgxnyjwq2v7xEDITvgX4NMlzA0qHBz4zWXmzXWhtGCIA8UgLEhF4CAkCCW080SzLTXV680a8u7IVQg+UwcLC0WjmLpKXeNE3TGxYRQyZ0DQkphW+7l2Hz5FwBHV+4l9FlOAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Wales (UK)",
+        "english_name": "Welsh",
+        "portuguese_br_name": "Galês",
+        "native_name": "Cymraeg",
+        "subtag": "cy",
+        "country_flag_url": "https://flagcdn.com/16x12/gb-wls.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACaUlEQVQokUXMy29MYRjA4d93zunoVC8zDOpSlJaUSIlbSIiEsGNhIbGwtGDpH1BiwaIRCwkRIbFpBCsScasIUl2oujXNlN4vM9rR6tSc853vfS1E/AHPY7LZ7O44jo+p6k6gVlWNiBSBISCrqr3OuT5gRESmnHO+7/srRGSHMeaY6enp0UwmQzKZxBjDTEc3Pz/3Eqbms+zQXqIoIgxDrLXEcQxAEASUl5eTz+cJVJV0KsXIw3YKz95S6OjC/zZMw7VzZDIZouIcA1dukVxTR2VjPVJVwYKGeuzvEhMTE38Dz/fR6gpWnzpOoTBJmO1ntn+Y6Y4uuk6cIczlwRiCyiR7e1/S13qdJUcOIiJ4qkoxP8lA603KFqZYnMkw4yJIVzFw5z7F8Qk8EXwXU3/uDGNPXzH+ppMosv8Dl06ScI67xU5yDx4TSkzu9j2mH74AFVQFr2ElZlGK/ktXqaqpId3UyOvcB8yettOaDfs40P6LDT0l1vdFVJcUqw5PoQwIEUy6hlRzE4jjYvMoz5uF6U9j+IP7k2dnlwZ0N/ls/GYxs5aKnxajytQ8QWNhtNanOj/Hj9FBWvZN8WRzTGhLkI8IcA7EgTpuHE5wOGF5vquMj+sC5sVKy5UZ3jd6nD9ZxbIRy9FHRTo3etgE4ATvH179dY4L5yepG7K8bQ6oGQ3Z92qOz3WGkUWG9JTlS6PP11UeNqHgHDjBcHm7Mt/D/2VxTgAFlLJQKReoLQjf6wM2dZfY2hszuNynfYtP5BzkIgyt2zqJtQ2Rd2g8jIsdkliAuOWIW4uyDpUGRFcgUomo4nQckQ6ctv0BKadc/u+rgA4AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Denmark",
+        "english_name": "Danish",
+        "portuguese_br_name": "Dinamarquês",
+        "native_name": "dansk",
+        "subtag": "da",
+        "country_flag_url": "https://flagcdn.com/16x12/dk.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAw1BMVEWfCySfDyixGTqMBxiwQlWeDymwGTivHD2KBRWiDyrOzs6hDiWgDSTU1NTCdoePCRuyHD2LCBn/AACDAxTBwcG0doOGBhYAAADGEDT////GDivJEC/LEzTOGT69CySrDimiCiHCDCe4CiCzGDnvt8Dmjp6vCiDjiZfCFjS0EjD38PHdcIHQPFX56OrIGkDpo67GJz6MBhehECaTCBr33ODhipzdaX3V1dXTMlHtrbnIh5S4b3rVyszigJLdeYi0eYHIvr9Flc3GAAAAGHRSTlMebd3YH5hKHx8sH1+3v9q/puMBTkYppQH67vIYAAAAk0lEQVQIHQXB3QqCQBCA0W91Gn/SBDUSot7/tbrqptRCDWXX6Zy4DuXmSjVT9VmSbDLfjgzdvDsWwE0CA4xTDBimCAAAhgFpBFyrHAyDpPYSLuMD6EanNJ+TikZVs/bzmL2gby3I9lyNgmWpUi+9OvHeMEhYFxCIAAMggLAT0Yhqe7dDKiI7OArbf2d7Sz6dvk2QP77GPtTBEQ4xAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Germany",
+        "english_name": "German",
+        "portuguese_br_name": "Alemão",
+        "native_name": "Deutsch",
+        "subtag": "de",
+        "country_flag_url": "https://flagcdn.com/16x12/de.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABNklEQVQokaXPzWqTURDG8d85OXmbgIJVtFGzs7gruqrgjXTrujfUa+g9eAOKoGux4EetRrAKJa3Nm3eOi1aqNdVFB4Z5mJn/w0waDoeP27bdqLU+iohRrTXlnKe11g8ppTd4nVLayTl/bNt2H71Syjgi1iNiI6G6ROTLwFB+iTFunOof2MX0P/AIZRNPcOu0+fs/X7CDd9jDERJW8BAt0lPq6jl4UV2UL1Hi3NIi8CKTDqVmmgcsrZGvkRq6A+YTZm9Pcv79b6PeiKtrlJtb3F7/x52VOGT+lXZC6tNfob/M3itKWr4AjDOdBzR3aEZ/zqOj1OD9J6ZHzGbUICf6PZYKg4ZBn6ZHySfz42O+HZwZvJjs2247zyPs5tDNW9czdyX3orovrArjWl2Jqnadz7XzbNbZ/gm6bKEHm4sqvwAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Sorbia (Germany)",
+        "english_name": "Lower Sorbian",
+        "portuguese_br_name": "Baixo Sorábio",
+        "native_name": "dolnoserbšćina",
+        "subtag": "dsb",
+        "country_flag_url": "https://flagcdn.com/16x12/de.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABNklEQVQokaXPzWqTURDG8d85OXmbgIJVtFGzs7gruqrgjXTrujfUa+g9eAOKoGux4EetRrAKJa3Nm3eOi1aqNdVFB4Z5mJn/w0waDoeP27bdqLU+iohRrTXlnKe11g8ppTd4nVLayTl/bNt2H71Syjgi1iNiI6G6ROTLwFB+iTFunOof2MX0P/AIZRNPcOu0+fs/X7CDd9jDERJW8BAt0lPq6jl4UV2UL1Hi3NIi8CKTDqVmmgcsrZGvkRq6A+YTZm9Pcv79b6PeiKtrlJtb3F7/x52VOGT+lXZC6tNfob/M3itKWr4AjDOdBzR3aEZ/zqOj1OD9J6ZHzGbUICf6PZYKg4ZBn6ZHySfz42O+HZwZvJjs2247zyPs5tDNW9czdyX3orovrArjWl2Jqnadz7XzbNbZ/gm6bKEHm4sqvwAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Maldives",
+        "english_name": "Divehi",
+        "portuguese_br_name": "Divehi",
+        "native_name": "ދިވެހިބަސް",
+        "subtag": "dv",
+        "country_flag_url": "https://flagcdn.com/16x12/mv.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAxlBMVEWnDiunDiukDyylDCm3GUCoDSmUBx2WCBy3Fz63GT+mCymkDy69I0u1FjuRBhqIBBaYCB7VEzvODS+oCiWDOTYAgj4DhUIAfDgAejbUGEO1EzcAczIDfzzKCyrSDzSHQEHYGkYAdzSwEDAAby+/CiW4CygAiEafCSKNJyrGFDvFCSWwFiixDCmVya25GEHLHES7J0SQKy8xlV+4GjGYCB6sDSyRBhlhSTYWi01ls4opbj9HXD1LoHGUBxysJDYgZDI+VjJyPjOMxd8AAAAAEXRSTlNxPkwfk8uT3eHPIjE6ucg6uba6rjQAAACcSURBVAgdBcG9EsFAFIDR78bN/kSCQqNSqCh03v9J6GUMYUJ2k8yucxZ1sqqlT6mokp8p5SwtsIE3jio+lbfdkNsAKJ9eFPKPzhxlvv7Y91t9GOiIObQLJIESTZc59C3iYUlBIGNviPhxHGjUDV/HVKzL14gDCjiFcNprM+Kg8XK50wMsWUE0tWLtF9hFIsi9lnISH92QTDWADf4Pw1Y9wA2tvtUAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Greece",
+        "english_name": "Greek",
+        "portuguese_br_name": "Grego",
+        "native_name": "Ελληνικά",
+        "subtag": "el",
+        "country_flag_url": "https://flagcdn.com/16x12/gr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABIFBMVEUJS4oKS4sTX5sSXpoGOHUPTooOTIwMUI8UYZ0FN3USYJ4aaqd0nLuYscQHPXkHPnsRV5QHPnwHQIAEM28EMGr////g6vQRZbMPUpTp8PeJtNqErdTC1usUbLQwdbq90+jF2u17ptI/fLwSXaxWi8QKVKeWttjx9vv5+/2dudoIR4o+da9dlMWjweCryuWevt4we75zp9Qka7T9/v4TZaFNiMR2oc9glco7g8LN3e0aW6iuxd+EmK63z+fO3+8QXJkhc7fa5/Npk7TF1+o6erB+qtQkZp2nxt6tvsoYYaCDocVgh7Q3aaDLztBil8urv9ggYqxWeafDxMWLpscHSp2xxuAcTYWxtLgLN3JpgZ42W4mPprohYJl3lbIjV414lLC3fSD2AAAAFXRSTlMgy9a54TE+cpPP4TrgyLmVTG9MkTqfH8x4AAAAxElEQVQIHQXBhUICURAAwEXiwAbdF9edpHTYIA0qoYLK//8FM3CWvjg/PYmnheskQEqIQU0ZisqTlO+PGWMsOkCtpetiRXtG9AhBrwejqs8fZIXScr1pm9Y/vJSLIlWRywXJMNz2JzwqRZFSMy8VtLbcbWzhrUKIfF8ybNVynHe7B3PdHTSk0itHRETyA7+0tWjWVcvp3JlRZ72Dve9z7mGVaEEQbMgX/EUsDEM2m07c7nL18Q0xIQWQzGWvLjOJRObm9ggBXB0aD5aC9QAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "USA, UK, etc.",
+        "english_name": "English",
+        "portuguese_br_name": "Inglês",
+        "native_name": "English",
+        "subtag": "en",
+        "country_flag_url": "https://flagcdn.com/16x12/us.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABHVBMVEWMGSlPT3daWn9dXICMHCyNIi54ER2RHy54ERxXVnpQT3Z5M0+aJzqIGSmQIjBuDRaQIS2QIS5+FSB8Ex5zDxpnZpBjYozFWGXx2Nvcm6PDUF+7Q1HgrLLKbnnz3uHu09bUjpbk0dNmZY5vbpXmub+/TFrgqbCzPUqoWGPKmaBXVntqaZJfXolWVYPdoqrViJLp2d7ir7bFeIKvg4m+VGHBXGfXur6fSFPmxMjjtbqYSVPHrrGqeoCxanO0RFBfXoJQT3WZYHral5+fb4lNS3GpjKPm3uXg3eWWTmq5ucyqnLDAX2qJN0CznJ90dI7KY3HUk5rsyc7epKvTgIuYZmuvXmmNT1WgTVfUhI+wdXy5i5K+pqnAkpfAZG7RiZFR4mcfAAAAFXRSTlMgOpHITDGTct3b4bmVPss6PstvucjjrrfjAAAAxklEQVQIHQXBBUICQRQA0A8CuyghyMzsbHeQS0h3qZRBl/c/Bu9BIPgUfY6+xJhQGOCVScEA64aBF3WvsnfdnneFrJFDGH3y31tK6Ym0IYsQ0nMzRf4t27Ypd2Go5zHCE8kSeEIEqwtThPOFwmhsKpwsc2IbNl8fvj/XxJJUc4SluoYq4QnhBUtSi63yz3IFF84sUrHJKS36r9pKFRqk9CeqlXenX5PufWcHHa93bLjnW13zm5rWOUCCiQOEQ+nIG8uymUjyAUFxHXDIwv3pAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Spain",
+        "english_name": "Spanish",
+        "portuguese_br_name": "Espanhol",
+        "native_name": "español",
+        "subtag": "es",
+        "country_flag_url": "https://flagcdn.com/16x12/es.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABzklEQVQokV2SS2uTURCGn3P5ktpL1GKwN6G0KrhwJVpw7cKNGzf1FwrdivgbrIggFMHaCtpG2lpra5rku515XSSSIMPLDMM8wwwz7vXSw8dWFZtmaUNmCyY5OfWEHZhpT852cewr+o5101lBCj5qBaVHZrbpXs3f11XnaSCChCRMRkWiNKOUUSpRyUgIyfASDYlfJKIp0fIBYWQ3C0BU547Yd0zhkHNAQHiEIRxCmBNnzZJ4/ekpd55dMr3Wx3mo6kBeZ0xXJfmPjPwwIz+I5McBJQEitBKteyVhJifeeH7CzCogGPQcOx9m6RwFNjbE4nrBzFoBQ24sG+kTeE0kO8e3+Po2ErsvOKyeMCiyYeEkNCFL4PUvISi7S1xrV3y52EHfC3rHcQinCXAiNoMoG4+W2iesPkiE3VP8XI7mGmCD8QT/eSWIKYff21fofc6Y6pwjNVhrdWgMatxFTW8xMr1c45gADf7sB769ibiX7QWt9ptINjyPxNgY/YVothNyQiaKrqPK4aMqYnUJRyrpY1SjBowuH3FkQAaEnw6v4QYFoisjScQE78+cturg31lth1aUybJs3jzLjrQu011z3DZYMWlWSEk6Mmw71WnrL2HwSP/J/ngcAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Estonia",
+        "english_name": "Estonian",
+        "portuguese_br_name": "Estoniano",
+        "native_name": "eesti",
+        "subtag": "et",
+        "country_flag_url": "https://flagcdn.com/16x12/ee.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABjUlEQVQokaWOzYoTURCFv3v7dnIHI4EhgegMJGDjA7jQxqzzAK7mTWbjE80baFZZCYorV42Mm9gOaYb8EBMw3X2rZtGjgwwo6Nkc6lR9VWWOXr99WQXOtA4vRHSgosaq7lX0q1G5RPSzEf1ikW9VZVboj8gFdypBnovomeH8jeK7ELWBCEQhBKhrqEuoysbrqslFAQumBfsljiDQ7jYNUUDBRuBisB5iQBXkpyuEW99e4xBpitUV7FbNkImh+xjc0R2o3B0Jt8z2CsOzV8rlO9gW3NODHhyPoHsCDx9B1GrA7wUsPsF1hml+/nfZ/4EBXBRFpGlKmqb0ej2892w2G/I8J8sysixjuVzeA4fDIePxGDOdTnUymfzxym63Y7FYkOc53ntGoxGDwYDZbIbr9/t/fbPT6ZAkCUmS/JaLCE5Vmc/n7Pd7yrJEVbHWEscx7XYb7z3ee1qtFs45VJXD4cB6vf614GNRFBdVVX0QkdxaG+q6PrbWngBPROQpkACnqtoREQ0hLFT1fVmWFzd+eOFJSdwwTgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Basque Country",
+        "english_name": "Basque",
+        "portuguese_br_name": "Basco",
+        "native_name": "euskara",
+        "subtag": "eu",
+        "country_flag_url": "https://flagcdn.com/16x12/es-pv.png",
+        "country_flag_base64": null
+    },
+    {
+        "language_country_name": "Iran",
+        "english_name": "Persian",
+        "portuguese_br_name": "Persa",
+        "native_name": "فارسى",
+        "subtag": "fa",
+        "country_flag_url": "https://flagcdn.com/16x12/ir.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABzElEQVQokXWMy05TYRRG1385pRRoaCMg2kiIQDDONcjcOHGECY/De/gGjEx8AAYmkngJCQNjYjSQeOlJS8G0tqU9/97bATqxuJNv8q31bbf1/NmjsciuqTwUTTdVzZlq30y/qupnhU9O5YsX/T6UdC7JhxC1oal4IGa7cSTFaz8TcFmGcxEzRUTQJPeskMduLEgBRWHgHC4I4gzKHv05JqoIcaaEmmJqqBkG4B0u8/hphzOPml05pqgqKop2Lonz2Rwb9TU251dZriwQfCDvt2kNOrSGHTqXF+T9M0YyImkiiVDJprhRrrMos7j9Vy/s6dYTpmOZf2/Qzmm5AUVwtIbnRBcQE2ayCnfmbvHx6APxfn392nFqNkkHB9S9Z25nh/Xa6oRjZkQzmwAAvlpFu12010P7fUKpNOGo6tWD4vQU7XZJrdYVESE0GpS3t4nLy4RabXI8GPDr8JB4trdH8+SElOfIxQU6GhGWlnCVCpTLhMVFspUV/MICoVpFej20KBgeHZEfH+Negm0Cdk34T/8374BowA9gAIwBBRwQgAyYAkpABPwfPgK6gABR4X0b9hXeJvgGSII6cBu4C2worBk0FGYNTCAXeJNg/zdHKwiB5BoFOAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Finland",
+        "english_name": "Finnish",
+        "portuguese_br_name": "Finlandês",
+        "native_name": "suomi",
+        "subtag": "fi",
+        "country_flag_url": "https://flagcdn.com/16x12/fi.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA1VBMVEXQ0NDY2NjX19fX19fBwcHBwsXNzc3Ozs7Jycm/v78COGkBN2dXeJbBwcHQ0NC7u7u6urrBwcFKWnsAHkoAH06ztbr///8ALGgAOnYAKWTX19cAL2wANnNniKwAM3DU2uLj5enQ0NAAJl719fXo7PLu7u7Ky81BZ5MeQHK6xtb4+PgtUHyUqsPe3t7l6e+8vLzh4eFkfqMAIVEhU4gMQXthgKZsjrI+WoSlsbyGm7cAHEYAHUh2iaYANWaGmbSeo6okPWG/v78AMmTIyMjK1eFXdp5RZoPddVtgAAAAFnRSTlM8kcjgNZXLciHh1rnh1UzIkbkfTDFva3qVswAAAJ1JREFUCB0FwcuKwkAQQNFbZSWdlxgFBQOKuHDj/3/N7MdBxrcJtnY6niOISB7lra4zXm6Qpozu8cHJ+AQsOmkCuA/VHQBqBQADAFjZOt4q+dNp1neTez7vLfmhRftfAi/1fmkJpvQEUMgZRkW5uewOcduOyzSb1WZde+QfWu+BM3sDQAEAOBvN0c2FZ5FE5zVDUvFZoYNeqxBI5fkFe602/f/VBL8AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Philippines",
+        "english_name": "Filipino",
+        "portuguese_br_name": "Filipino",
+        "native_name": "Filipino",
+        "subtag": "fil",
+        "country_flag_url": "https://flagcdn.com/16x12/ph.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB1UlEQVQokX2OTUhUcRTFf/83z7ImEgoiyE0agUmQUBnSvkWBu0Rw4a5VuxZtI2jholpEixYtBROijRC0CTS16IMZSKIaEvuyKS0bxxnnvXtPi3FUZhGXw4F77jnnhl3n7/cl0oBS63XjoNxDJC/L9Tm4fwTeB7NChH1NqlomTjJxGtrdOO1uA2H88VM9eBUYn14CReACM7AUrAaWbHAKntZ1BVAMtT+Eudej6uoZ5NncMkMjb5hfLNePGlATu8C9jtIHIlpPANDXuUL+7lkunDwA5v+BgW9ARiQJL0+jvxNk00keXevlcv/h+rE3md222jdCIklQyUFxBNZmicI6t4d/cmOog2ytshXUZMSM7rUFYnkVoizs7ILdZwhRK+W3e+m/d5VzhU8sZbLMt+znW9yGSwjRlqxyvLpAIVkh5PN5dXdUCapA6zF+3HnI9+s3cTPUGDUYhG8G5axK7O5E2VN4ZY354Sv8nniyzSAETSHCEZJjErG8gq2WKQxeojQ5u9nk29rZvlNdcQlDxF7KMX3xFsWpGWpyHAgSGSAmsANoATKICHCJdTmlxgfF0Xcvf03NjJl44Wn6xYksicI+sENBdCroqMMRx9vl2iOQoUUTz83SsX8KKYA0yQR5AQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Faroe Islands",
+        "english_name": "Faroese",
+        "portuguese_br_name": "Feroês",
+        "native_name": "føroyskt",
+        "subtag": "fo",
+        "country_flag_url": "https://flagcdn.com/16x12/fo.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACG0lEQVQokY2RzUtUYRyFnzvzzsydHE2vo2MqmZXZB6GLSKpFQWCrKCIQ3BhE0LqFuxb9A21auCha1ULaVbgKEsJFmZQrSyZTG7Xr2AyOM6P3431/LSohSehZngMHzjlWNps9G4bhgIj0AS3DL+asOy9HKs9SXd96b1/Pnumsm9VafwGWjDEFrXU0Go22G2NOW5Y1oMIwnEin0ySTSZRS1KQD9sdsknbdsebmTL/jJPE8jyAICMMQAKUUtm2Tz+dRIkJjYyN/sKwoCRHiVoy99Q6trQ3shuu6RETkb9UIaA3awE5vB8YY1OqGx+s3S0wtlPjqVplZriBagzE8/5hn09d0t9TQkU4SsUCAfMln4tMPHj2Zxrp65a4MhUVOlXPUhltgDBjDuhVjOtHMbKyBuVg9bqSG1WiSqA7p9Ar0VpbJuJNYr/r6Zb7pJJOJDCUrjhjhfm6MqcQ+cipF19YaB7wCDeEmyK9aVYnwIZHhISnUg0s3Gbx8nuGOWg427WFwZJrg8RgTdhvq1g3WE1GeLm+w4pZw/DIaC1PvcO6owxDzqHvXuunpyWwPI0Ywv2tcPO5w4UR61xHHx5f+9YIBoxHzny+ICIuLi1QqFXzfp5j7zEy1zFpsjZXcAstOgG3bxONxlFKICJ7nUSwWtwPeu647GgTBO2NMLqhUddUETkHrtnJh9VA2Wz0CHAbaRSRljBGt9XcReev7/uhPi8Ij8zd1U7cAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "France",
+        "english_name": "French",
+        "portuguese_br_name": "Francês",
+        "native_name": "français",
+        "subtag": "fr",
+        "country_flag_url": "https://flagcdn.com/16x12/fr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABaUlEQVQokZWQv2oUURTGfzM7yY7GaSzUTUIsFMFWwaCFpa+QJ/ExBNP4DnkQCyWNlSKJCCoouoKEdebOzvk+i5ndJOw2nuYc7uX7m115fPhk3vrA1r5Ctyxlr54/nD19cPMLcGL7Y0Sczo/ffWtfvPxdRzHK3O3m8iMUB0Wd/Jr8KmQFZDlYbO/cZm/vxv2U0rO2bUkpMWvndCrYshgpowR+hihQQLEFElignM2NTaqqoqoqFpMmE/5ujLEEEpb40TYURP+w3BI2q2PjiOHf2EL24CAC5CUBrGGwe3ULayCQKC6rDyRrLNge1LW8w6IgAkaCuOBgXQTAjgG8iPAfDvoIPXARp+8gAnJdUHevssowgFc6iHOwBKwv8XIHvdvzCOkXqAHNAfH50wfeTxLj8ZiyLCnLEjU1jTos0yj4o24o0TpGZ0dYb5G+krehrr4+nU53gDuS7gF30+nJ7izV1yRb6LvsN6199A8sj1xU2A1j0AAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Netherlands",
+        "english_name": "Frisian",
+        "portuguese_br_name": "Frísio",
+        "native_name": "Frysk",
+        "subtag": "fy",
+        "country_flag_url": "https://flagcdn.com/16x12/nl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABvUlEQVQokZ2RzWpTcRTEf/+bG2Nrq7WlmmDtpiK4KwoqIr6Cy+LGRZ/EVxFXgntfoBuliIsKKlYl/fCjbcQ2SZN775lxkYhgN+LAWRwOcwbml54s37vjoloJxy0rmgol4Z7lLaMPId4706ay2k7WKzplPWphL6RSNyOqlfT42m1P1zLqQGZjiZCoFBQSZQSFglIiLCyRLOqGH1GRS8FUnmMJy8gm2dSABglnGU4JZ6O7k5BHs18V5JKwgkbrIvWZc9gmBgP6WzuUR0fYwvbIbCEJeRTUaDXJF1cfcHf1IacvzPO3Bnv7dDc/0fvcpr+9SzU4xsBEq8nsjWXe9buwsbHh/9Xa2poz2yeS/1WSyKsqWH+zw+u3X+j8PGYwLJk+c4rm3DRLi7MsXZ5jbmbyhLm92+HZ81ek6/cf+bA8i2JUkMcobcF4n2jkzJ+fpDU/zWBQ0N494NveIUW3Tb7X6VKfnBq1q98m/Xli0+uXdLt9Pra/j3GPyFlBrgiG/QNUDnGUY2yQSDhlJDJINSCBQQocJaqOcQS5rXUVR0+T/NJoexhF1MWs0KVkL4W4inXFjgXbU5Zsx1eHXph4+gv+xKAz7LuEDQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Ireland",
+        "english_name": "Irish",
+        "portuguese_br_name": "Irlandês",
+        "native_name": "Gaeilge",
+        "subtag": "ga",
+        "country_flag_url": "https://flagcdn.com/16x12/ie.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABcklEQVQokX2RzWpTURRG1725SS7UO5EKQkNFFEFw4KiCD+DUYd/CV/ApHPgIfQ3BgeLEUf2pgviDorH+kCbn5u7vc3CStNrUPd/rrL1OcePBvdvJsRvWLam7aLm4f/PuZOfC5ffAge1XEfGGd88/6tHD76F5r6f+SE47hbRbTd09LjYGFFVJrwRZbF0asb25fT2ldKdtW1JKzKug6xnKkoqOuiz5+rujkoJqY4AlbGFBf9CnaRqapmE1k5ewWYMFEoT48mNGpQikQBJaQDCnxwZFXpYhhEJUy0UpsBeQdQTnpQzQMcAnDRxYxj4DoFi9ngHODYoVQLnFfw2OTSTlBsXihCWAswz+ATg3WBrEKuL6EzhtEAsDFFl9GWgdQCcj/vULgb79wtMWzzss8/bFa/anNcPhkLquqeuawdGUqu1wiDQXh9MuA5Ce8XO2Z8VTt+2HVCo8mZ0fj8dbwBVJ14Cr7B+M/OnonGSH9NnSk9bd3h93v3O+FANKigAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Scotland (UK)",
+        "english_name": "Scottish Gaelic",
+        "portuguese_br_name": "Gaélico Escocês",
+        "native_name": "Gàidhlig",
+        "subtag": "gd",
+        "country_flag_url": "https://flagcdn.com/16x12/gb-sct.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA+VBMVEUCTpICW58APoICX6IAS4/Nzc0BXqAfXZjIycoASpAAYKMAPoUCWp8BY6Xc3NzX2NhclLoAPYADV54AQIYAO4AAOX60tLQAOHy5ublScJb///8BV7L8/f4AUq4AVLABZ70AY7sAZbyFst0Bar4AP4by9fm70OjC2O0GVZpIkM8AXKIAYKrb6PUASJ8Jb8EHWZ4DSJDg4OBAgsb4+v2TvOEAT6wARpUrdL8hZ7ZXi8gAS6izvMQAOH2ry+gAZrVRl9HP4/JzodOvzOiPtd2nxeQffsXY2Njs7OzI4PFdlbsLX7YZYaKcrL1Licnp8fihssKjtcfv7+9NbZZKmxT8AAAAGnRSTlMxlZXWIsu5PnQf4W9v4DqRyLlMTNXhOuCRyHHWr44AAAC4SURBVAjXFc1VckJRFETRE9wTCBDo+9zhOe4WIQnO/AfD5XPt6qqmyutbuZDMvJRqlE9lc2n62Zv2t75y3W7oHObxkf5+AXMty6qirM+wI3KDzgaCpirjHWD9G9QNdF0TsBwIwCeTeND5usMFr8ck0aDwaY9beHpokKPKA6CvWehvxeFsQU5gA18TxjTAHvMQejifmCSJ4tTkN3e6xFcnikYj3/cn1i2eUzqXTeXpvZio1hsf7VbzAQb9G/9zzcSJAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Kiribati",
+        "english_name": "Gilbertese",
+        "portuguese_br_name": "Gilbertês",
+        "native_name": "Taetae ni Kiribati",
+        "subtag": "gil",
+        "country_flag_url": "https://flagcdn.com/16x12/ki.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACWklEQVQokVWOy0uUYRjFf+98nzPjeMVRrBkNy2lGFFMKx4ws0SgIWrhRiAraBW1at7F/oE2biIqCgrCFC5FIiTJXWtoFu6BlOpPiDUdF5/LNzPc+LTSpxY8D53kO56iB6uoTYlndWqRZ2fY+LaK0UnGt9W8FPzNF2WnLkBnnmrmgM5kYIkZGqQrDtsMautWAzyeFSuESwQBEhGyOTaoljnkwg5TZLD/y4FgwsUUQERwiOEVY0xpTa02RaSK7RxHBYSnMEQ95ZhL5ATlJA0MpBP5jFXBoEbTW/FXZBV8G5cuSRlAJ9nwR2fkFbJGdBaLUXjtaYxtC+dVtCpuyKA3RO24SL1w7zbthLYINOP4GnVVVFHZ0IErhCQcobqrB4wK3G3Lb02Sduyv/wRUIoN729EhdfT0fvEHWt1K01O4nEksSj1ucObaCpL5gO46w+PgN6/3DlHZ2YhQXk93cpE97UJev35Zk1kN9jZ+CPDcjY1McOlBKjmkw8fkXlf4SJr9FOddWT2tziP7BcTY24zhNB9sb86jnfYPS0NhA/+BHFpc3aA0fZja6QsbWdF0Isx23KPMW8OlrhNGJac63N1JU6CGeSHH/4TPU0Y4bUuT1ce1SG/7yYoZGJqkL+kHBg6evia1vUVqSjwJqQ35Gx6dIJi0MB5w9WYl6OTQsGif3nrxiLrLEqeNBZqOrJJIZrnSdJhSoILIQIxSoYCayQk3ARzptsb21xc1bd1He4MX3IrrXQL9LW/a8MpI22iyxRfwKqUYkqEUH8nOdFVWVpfmT3+dEtCwp7DEt0vsH79lbH2zWkUQAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Galicia (Spain)",
+        "english_name": "Galician",
+        "portuguese_br_name": "Galego",
+        "native_name": "galego",
+        "subtag": "gl",
+        "country_flag_url": "https://flagcdn.com/16x12/es-ga.png",
+        "country_flag_base64": null
+    },
+    {
+        "language_country_name": "Switzerland",
+        "english_name": "Swiss German",
+        "portuguese_br_name": "Alemão Suíço",
+        "native_name": "Schweizerdeutsch",
+        "subtag": "gsw",
+        "country_flag_url": "https://flagcdn.com/16x12/ch.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAgVBMVEVHcEzKAgLMAAC/AADWAADWAADLAQHSCgq8AQHPAgLJBQXNAQHFAAC3AAC6AADYAwPVAQHNAwPJAADBAAD/AAD////PAADaAAD2AADUAADdAADoAAD/cHD/ISH/V1f/iYn/PT3/X1//39//ERH/xMT/0dH/qqr/lJTBAAD/oaH/JydO9sNkAAAAFHRSTlMAPyPfA+CbNzdnNKUjYLm5xkxMxk0oQ4IAAAB0SURBVAgdBcFLDoIwFADAKX2IoBjdeP8LmiiG4g/qTBaHfsunbbc26Zzbb9KdE7JabXV6BfnDda4FLQ1QytIDAUP+AisB8UR3LDOCVXupdw8jBNwc6VQIAGl5QQC5T7GAoFGVLd4hj5NkSN3HvF/Hu0Ndfn8h+Cs9zF5jOgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Gujarati",
+        "portuguese_br_name": "Guzerate",
+        "native_name": "ગુજરાતી",
+        "subtag": "gu",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Nigeria",
+        "english_name": "Hausa",
+        "portuguese_br_name": "Haúça",
+        "native_name": "Hausa",
+        "subtag": "ha",
+        "country_flag_url": "https://flagcdn.com/16x12/ng.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABUUlEQVQokYWQOUoDYRTHf5OZJBPMNCK4hTRKwAsoKFh6hdh6Bi/hCbyAlYewESwU+2BciLhgkyAkMc7y3rOYDFmM8cHjK773X53SydFurEndzHZUZMVUnNO9w/7+au0FeDCzpog8Xjw33o4vzzpo5Hqaq6jptorUvYEmV5Ty4DngACqsVStUV6tbYRgeRFFEGIbErkDOwHFJXCDnQjfCQwRKJVBN14F8oUAQBARBQDbLvRYsLYAN70Tgsz8kUBkRqIIZv8Zs8k7S9UZAmU+ApapqIweiQwfjLkzT4+nJgGPqiOClwMkY9leEzIGMHI918E8Ey4A68c6IYHMIZAbBtLrqHx2OOfhVYqcPYQRx+tm6u6chZYrFIr7v4/s+318DiGIQgziBQZyVqLf0wnNEb4j1FUfFomSx3W6vAxuqWgM2nxrNCu/dMmqG6gci1yR6/gPOVjaE//1FsAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Israel",
+        "english_name": "Hebrew",
+        "portuguese_br_name": "Hebraico",
+        "native_name": "עברית",
+        "subtag": "he",
+        "country_flag_url": "https://flagcdn.com/16x12/il.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABAlBMVEXIyMjW1tbX19fU1NTKysrJycnNzc3Q0NDOzs7W1tbX19fU1NTBwcHBwcHBwcHDw8PAwMC0tLS+vr67u7u6urr////8/P4ANbUCL65jhtEfRLIiYMifteSCnt3FxcUAObowUKU6asjU1NRvj9YBTMNCdcgAQL3CwsOsvea1xuoAPbvM1e61v9Bwk9MZPqtfg9JWbbNdgNGotM6oscfLzdGzuMdKcMt/mdn19/yJot3V1dX09vuWq9+WruIaW8Tw9PuBm9oOT8LK2fK/zu4AQ75jh7sARaY4WLKHoM2No910h7yQnsDT09MAJ6SYna5XaJoAHXnAxdAPPZt1jMJ8ksUNM5GdcW3WAAAAFXRSTlMg4cjWTDHLPHKT4Lm5ldVv4TrgyJHT5tydAAAAqklEQVQIHR3BBQKCQBAAwDXBzj2kBJWysLu7sPX/X/FwBpiQN+zxRUKsPwDAsEGo1XVxXtD5Y7vWfbY/Kuw1TRRXW8OoVBSF476wWxNEXGwkmW806pYJY6SGEj/DvzwU0VUqy32CVB4cpCaFkTVAlwkOusiSnxKkTOiW5VardJKqBKnqHV4KR+UoQRBy1weo706v17mcmwfBttXmDYIsAxDwJ2LReDKdyaZ+zEYY5S4tN+kAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Hindi",
+        "portuguese_br_name": "Hindi",
+        "native_name": "हिंदी",
+        "subtag": "hi",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Croatia",
+        "english_name": "Croatian",
+        "portuguese_br_name": "Croata",
+        "native_name": "hrvatski",
+        "subtag": "hr",
+        "country_flag_url": "https://flagcdn.com/16x12/hr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABvUlEQVQokW2Ov2pTcRzFP797r5IQDZiGWpIrjSjFugmi1NnJzUE69AGcQqEOXdw6+ABOPkKmTr5BUFJKBxupSCU2VdqgsU1Bc5N77/c4JJZKcuDLGc6f73H72eyjJI6XJT3EbE6SM8/7jXSIc/uCz6lzX/C87xbHv1Lw/SAIzeyBM1t2n0BFIAsEjGBADAyA4ZhjIBnrAZABfgCBgBkm8eZZldOez9XBCU/bWyy09iY8nX8FAFQqMDsLEkQR/Wslbnzd4V3lDrp5nRdTCiwMcR/X13W3WoVy+X91YwPSFPp9un6GmUDQ74NzEIawtMT7OIZms6mpODyU1tak1VVpd3eqpV6vy5M0MQ2AzU1UKMD8POxNzgcwM4IkSWk0jtnZ6dDt9omihHz+Mvfm7vO48xaOjmBlZSJ8cHBKrfYBt7j4Sr1eATPDzBgtMjxPvH4SE5ZyPK9FXMrnKJVyRFFMu31Cp3NGkrRwxeJL+X4Zyc4PLrLO+aImpSRJi2D09SdmEVI8NgE4wMM5H8nHOQ+JcXiI9AcpJQBtS2c1ybYk+zYYDNNMxiukqZWd0y0pXTDTbVAoJVckCdJjyRpgtb/8Bz4fzHv4/gAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Yugoslavia (historical)",
+        "english_name": "Serbo-Croatian",
+        "portuguese_br_name": "Sérvio-Croata",
+        "native_name": "srpskohrvatski/српскохрватски",
+        "subtag": "hrv",
+        "country_flag_url": "[Historical]",
+        "country_flag_base64": null
+    },
+    {
+        "language_country_name": "Sorbia (Germany)",
+        "english_name": "Upper Sorbian",
+        "portuguese_br_name": "Alto Sorábio",
+        "native_name": "hornjoserbšćina",
+        "subtag": "hsb",
+        "country_flag_url": "https://flagcdn.com/16x12/de.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABNklEQVQokaXPzWqTURDG8d85OXmbgIJVtFGzs7gruqrgjXTrujfUa+g9eAOKoGux4EetRrAKJa3Nm3eOi1aqNdVFB4Z5mJn/w0waDoeP27bdqLU+iohRrTXlnKe11g8ppTd4nVLayTl/bNt2H71Syjgi1iNiI6G6ROTLwFB+iTFunOof2MX0P/AIZRNPcOu0+fs/X7CDd9jDERJW8BAt0lPq6jl4UV2UL1Hi3NIi8CKTDqVmmgcsrZGvkRq6A+YTZm9Pcv79b6PeiKtrlJtb3F7/x52VOGT+lXZC6tNfob/M3itKWr4AjDOdBzR3aEZ/zqOj1OD9J6ZHzGbUICf6PZYKg4ZBn6ZHySfz42O+HZwZvJjs2247zyPs5tDNW9czdyX3orovrArjWl2Jqnadz7XzbNbZ/gm6bKEHm4sqvwAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Hungary",
+        "english_name": "Hungarian",
+        "portuguese_br_name": "Húngaro",
+        "native_name": "magyar",
+        "subtag": "hu",
+        "country_flag_url": "https://flagcdn.com/16x12/hu.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA3lBMVEUnRS6xMUAzTzupJzMyUjksSjOrKDa1NUQoRC61NEMvTTayMD4sSTIrSDGzMkAvTjm2OEcmQi2uLDk6WkCsLzmmIS3////PKjvTO0w1Wj00VzxFbU7MJjZCako8YUQzVDo5XUCxJDLSM0Q/Z0jRLj/JM0PTOEkmQSu2NkbS09NJclL66+w9ZEXcX2zaU2KftKRyiHfjipK1KjhNbVPFxcWiHSrzys7S29Tv8vC1xbhXeV7srbPmkpqWrpy9Lj1kgmvFjZPHO0zl6uYrTDKsv7DU3tbCwsLooaj00dSkND7dVspMAAAAFnRSTlOTPCAgcTxxk+HhTLm51dYxyMhMyzHLeaqlFwAAAJlJREFUCNdVwcsOwUAYgNHvHzOljDahKTa1sSCRWHj/5+jOSkQ0NK26lNbYco6I59eYtnFW5XxMKMtZSuBgVpEDkSYloIUD3DGgIXb0TpYrGIj0tHME6A4mciOWTFZnfiWKfyPNxmVB2f/IDmB9ku2DAoXHc34Pq0MgiS1QeD4lilqGWlXmpWguOBBvsZdxIS3D96ux8sbPzReIijIL973ehQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Armenia",
+        "english_name": "Armenian",
+        "portuguese_br_name": "Armênio",
+        "native_name": "Հայերեն",
+        "subtag": "hy",
+        "country_flag_url": "https://flagcdn.com/16x12/am.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABsElEQVQokW3QzW5SQRjG8f+cM3yXFjUoBtoQa4w3YGvc2ZvoBbl37yV06R1ojAs/EneaoF0JBimgtPJxOM77uDhAE2Imb+adZJ5fZl73unT4RGl6arJjmTUkOYuYIvsup2/CdYLj3EVxT+lsvECx9/mWbHkk06l7RUt7RBQRMQAiYKQYS8QSY4mRIgJCiBiRR4wwvGHUNlHbXMgBZRwiAhzCYAWs1yADhDB6xRuMc2WEkQ8pzWREOSw2ITC0RfT8Lv5F+4Q3raf0fRXMwLQqo55ccm/WZ38x5G4ypmgJJuj7XT6V9vmsBY7Hz0WxCcG2AIFWZ6369W4GFmB2jicYm/ofsB3eABniY6UcNb7w6M5XbhWuKERLJvMyPy5rdIYNOqPbjGaV6/DqVQfVIcetD7iXz/Z08nCCDFaDzvpsbkgwTQoM/uzSndQoRikHOyPqpSvedsDXC9fhDbIFVeKEdvWCduUCreGQjcHLoDuA6RzSNPuaA3IR5GMoxFDwkI8gJkOTJfyeQgjgzfj48xdnZryfL+iWYkISuBk7mjIOJR7IuC+jZcaODFmgb+Jd8pezf550Qi/6B0kgAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Indonesia",
+        "english_name": "Indonesian",
+        "portuguese_br_name": "Indonésio",
+        "native_name": "Bahasa Indonesia",
+        "subtag": "id",
+        "country_flag_url": "https://flagcdn.com/16x12/id.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABM0lEQVQoka2QwUpCYRCFv//3V69QLkooyJ3R2lVFiq/hE/RKvUOPUrRrk2EgZtBFyEW48P73zmlhRKEWRQeGgTkzZ+aMG9ZqZ3mMfUknmO1Lcub9HOkR54aC+8K5B7x/shhfCiiVQmia2bEz67s7UAOoAYElDIjAAsjecwTydz4ACTAFgoBdVpEA22vqn5ECXj80fQf7D4EggHod2m1otcA5mE5hMoHhEF5fNwucnhJ0cQHn5xDC+q40hcEARiMwWy5oNKDTwW5vCep2Nw8D7O0to9dboSThzew3tr9aMMNLf3+jmREkMR6Pmc/nZFm2PMt7yuUy1WqVJElIkoRKpUIIAUksFgtms9mHwE2appcxxmszm3jvizzPd7z3B0DLzI6AQ6ApacvMVBTFs6SrLMsu3wBIOp4C46X4SQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Nigeria",
+        "english_name": "Igbo",
+        "portuguese_br_name": "Ibo",
+        "native_name": "Igbo",
+        "subtag": "ig",
+        "country_flag_url": "https://flagcdn.com/16x12/ng.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABUUlEQVQokYWQOUoDYRTHf5OZJBPMNCK4hTRKwAsoKFh6hdh6Bi/hCbyAlYewESwU+2BciLhgkyAkMc7y3rOYDFmM8cHjK773X53SydFurEndzHZUZMVUnNO9w/7+au0FeDCzpog8Xjw33o4vzzpo5Hqaq6jptorUvYEmV5Ty4DngACqsVStUV6tbYRgeRFFEGIbErkDOwHFJXCDnQjfCQwRKJVBN14F8oUAQBARBQDbLvRYsLYAN70Tgsz8kUBkRqIIZv8Zs8k7S9UZAmU+ApapqIweiQwfjLkzT4+nJgGPqiOClwMkY9leEzIGMHI918E8Ey4A68c6IYHMIZAbBtLrqHx2OOfhVYqcPYQRx+tm6u6chZYrFIr7v4/s+318DiGIQgziBQZyVqLf0wnNEb4j1FUfFomSx3W6vAxuqWgM2nxrNCu/dMmqG6gci1yR6/gPOVjaE//1FsAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "China",
+        "english_name": "Yi",
+        "portuguese_br_name": "Yi",
+        "native_name": "ꆈꌠꁱꂷ",
+        "subtag": "ii",
+        "country_flag_url": "https://flagcdn.com/16x12/cn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAt1BMVEW9FyDLJjHKKjCwDxa/FR27GR+6HiS7FR67GR+uDRSwDhTBJCqvDhOxFRqrDRKtDhPIIi3KJTDLJzHtGSHrFR3uGiPuHCXsFx/sGCDvHSfpExrvISvwJC7vHyixDhXAExrwKDDYEhnGHyjIExu5EhnwIyvGGiPXICrxOS3qKDPyUh/LGiLSFx/CFyCrCxH0bx/JJC7xYSf80grfExriExnhEhjwMynKDhT2hh3pSy/fLDfNKTXLJzOYq9JTAAAAE3RSTlNxk8+5yz46IEyT1THhMcjgueHgRqUxcQAAAJFJREFUCNclzNEOwiAMheFDKTCNCToTX8b3fxcvjBpdYI5CHfPyy39a6xudhiV+MQRiamyuqi8McwO4wJkPm2TiLceUQFIVkaaMLBISdTcLBh7AYdpycwp+N9E9PVd214UhShOk02pdX0P/a6zzCg/mIrKxZw9Q6HZb7j4yzln6ZcNozP2SDYsj+DLvlkBWS/0B7KFVHvCyRgEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Iceland",
+        "english_name": "Icelandic",
+        "portuguese_br_name": "Islandês",
+        "native_name": "íslenska",
+        "subtag": "is",
+        "country_flag_url": "https://flagcdn.com/16x12/is.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABEVBMVEUCOnIBO3QALmIBMmkDSoUAMGYCQn0AMGUASoIJWI8ANGoHUYYHX5UGXJO/Ok0DUovLjpgFWZJ2m7VrhJy5io0APHGnJDQCV6ABVJ4DZKgBUZsASJIBTpgBQIkCSIQBPoMBR4wEWJPhPVLfM0cBQ4wBO4IBTpLdITjhQVfzrLWSudgAPnuLrtDxqLECS4ifudUBLGACMmfYGC0BPHV3nMTdK0DlZXIpZ6bppK6vJzUBWqJOhrnsgpCLs9NujakBQ4ABM3PFrcDkp7JlgJymfYfof4pEc6jJqLrarbsEXpW8NUe6kZwEY6Aka6vlX2/sjJdNkMCArtEDYKXqcYEpcq/nq7fU4+/WscHobX3ovcfJjZPTaUdMAAAAF3RSTlM8ccjVcZPL4SA1uUyRyNaVueDhH0wiMZikrDkAAAC4SURBVAjXHc3VAoJAFEXRi92tAzggoIiIYreI3d36/x/i4H476+WANxCMxkKRsMPv9XjA4YLNnmGMQlcU87rO84IGImOB2u8jRNMsblhwNST1P1mcJ3C+FJ+SOjggFmPcmcHuVmgpitQ+ddeT1XTRg+3w8fpk38OjpNTrrfYcRndEl7LlzqBZqlSayxrwiGYJpEm5HMcRIF9/EKwtV8EUTG3U+2oZkiyPq+CiIBlPJSinz+5225zwA6cMHSDlv11gAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Italy",
+        "english_name": "Italian",
+        "portuguese_br_name": "Italiano",
+        "native_name": "italiano",
+        "subtag": "it",
+        "country_flag_url": "https://flagcdn.com/16x12/it.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABaklEQVQokXWRwWoTYRSFv0nHzLQ4KG5qbclGEX0AFVx06SvUnU/kwoW+Qx/EhZJ9qRoQqiDoFFTa5J/MPcdFJkMMyYULd3MO53w3233z8vk82hPLz6S4a0X27smrq+P9RxfAF9ufImLyezz+/uv128tZtDv5Tn6kJp5acZJPo33PXg55BpnB4t7okNH+6HFK6UXTNKSUaOZm4AG75AxaM8wyaomcCNgrQAIZMMNiSFVVVFXFcm4dHHBjWGCp359NIkfBYrVYC9usj20cgSVkY4uwyIlOuDSxYIMBNpKwhWVkEdJqghUDtiSQUJdQ3b1gEAFerbHJgF5kdwnstQReGGxkgDtxx0BC/Rf+q+AtDOgYdEbqIa59YVuFlQQ9xL5CfQ2zOcwDwnw9n3DW3KYoCsqypCxLrqZTUrTIJkn8jXb5BY/505wS+kjDNwYRmqY7dV0fAvclPQQeXE4+H12k2U07HOJHWB/C7ek/969sAGexO4kAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Canada",
+        "english_name": "Inuktitut",
+        "portuguese_br_name": "Inuktitut",
+        "native_name": "Inuktitut/ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕ)",
+        "subtag": "iu",
+        "country_flag_url": "https://flagcdn.com/16x12/ca.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAArlBMVEXJAwO6AADYBAS7AADJycnKysrKysrRAQHLAQHLy8u+AADAvb3XBQXBwcHU1NTLAADU1NTU1NTBwcHW1tbBwcHDAAD/////AAD/AgLVAAD//f3/+/vPAADDAADbAAD/CgrIAAD1AQHlAAD/enr69/fx8fHS0dH/MzO9AAD/WFj/6ur/3Nz/4uLi3Nzo1NTY2Nj/Jib/zc3/EhL/Z2f/u7v/gYH/QkLdxcX/oqL/q6uwtPylAAAAFnRSTlM8kZHIMUwfynRv4OHg1ZUi1rmV4bki1UfZ8QAAAIpJREFUCB0FwbFOwzAUAMB7jkPslg1aCTHw/x+FBBJMsJRSJaF1zF1I4zi1aNdbT/VUejzVbhC1S/N5zH/ZRWyOl8P3z7ita01A/30rQIL8UGIqjyBBTB/dV4OW4HpmWYA0wPzC8w5kcBvu74b3EfsEvJb4BLL9POzUMu/1pokplsNpi1zTuvV16//sCjMklr5rmAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Japan",
+        "english_name": "Japanese",
+        "portuguese_br_name": "Japonês",
+        "native_name": "日本語",
+        "subtag": "ja",
+        "country_flag_url": "https://flagcdn.com/16x12/jp.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAkFBMVEXLy8u+vr7Y2NjU1NTNzc3Kysq6urrIyMjQ0NDW1tbX19fU1NTW1tbQ0NC7u7u+vr7AwMDBwcHBwcH///+8ACz5+Pi3ACi/AjTX19f38vPf39/Q0NDZ2dnDw8PJycnt7e3T09P12+HTV3X23uS9vb3oq7rl5eXvw8/V1dXWZoC5EDX45Onll6zkpLLwzdTMSWZeeqvoAAAAE3RSTlNxk5G5y0w1IDzP4JXhMcjg4dW5vX6qwgAAAIVJREFUCB0FwdFKwzAUANCTa9YGmVVhD8r+/89EhPm0VTvTpvGcVOqYotXycyhVuuf0NtaNPIxzHM17zmYouf1ZkOMF3n+v83OAgOFCu56gxx2T1rgMEJAbIgoEfE0inGaIFZYzHnaMGdSP87J/gmycbjx9H7dh87hKeStd72t67b332+EfbZw0Nxtm4UoAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Georgia",
+        "english_name": "Georgian",
+        "portuguese_br_name": "Georgiano",
+        "native_name": "ქართული",
+        "subtag": "ka",
+        "country_flag_url": "https://flagcdn.com/16x12/ge.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAyVBMVEXIyMjLy8vJycnLAQHNzc29vb3Lvr7W1tbV1dW/v7/Y2NjX19fW1ta7u7u6urrBwcHUAgLQzc3DqKjBAAD/AAD////Rz8//+/v/4eH/KyvY2Nj/Pz//mJj39vb98fH/2dnKysrg4ODb2tr/ycn/SEjjAAD/f3//kZH/qan/HBz4e3v/pKT/hITt6ur/np68vLzMAADAwMDW1tb/ODj/wsL/3d3/v7/v7+/UJyfy1tbSgYHGdXXCJCTz8/P/5OT/TEz/z8/rAADWvLyG1T61AAAAFHRSTlMgdDFvyzy5zzzhkeDhyJHVlUxMlRVcgIcAAACdSURBVAjXNcxHFoJAEADRRrI5TI+SRXISBMzZ+x/KB2gt/6JA6ouDoShM2VkPQGI4UDMjNo3z29uoJVXtNZQYKCGuCFmi5b6wATxgB7XmNGAlvh/oDeADzSucyK9I0zSFFFAQxX1W0Z9vcDHRah9hkKa6tQOKTlV3U0wQW3D3HWwVHXOgdkkp/Xhedjfio50Dx/AAvTm7ECayPBrzXz1cFMmZ5t5tAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Kazakhstan",
+        "english_name": "Kazakh",
+        "portuguese_br_name": "Cazaque",
+        "native_name": "Қазақша",
+        "subtag": "kk",
+        "country_flag_url": "https://flagcdn.com/16x12/kz.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABuklEQVQokV2Sv24TQRCHv93bSxxiIWMJBNgUkDgVoqAACfECPEE6HoAHQLwBTwAvQOWKhgaFf4IGEA0SFYICESKC5cMoNuhub2Yo9mxjipFW8+38fjO74zYePLoWpd41lauqdtrUnDedmdlXZ3xC5aMz++xVvsUqFmQ+C6J9Va6osesuD++btLu8r/vgMzADEYgxRVVBrNJZJHHnIeQwKQi9MGHaOQm/1hKcX8gCrLeaHEtmBmqgCuMRflZnlOL/AQ1U42LrgDu9PS5t7C+ZGIguwgeNVEqC/4ncPPWauxcecvvcY7xKI9yEKIjgozhaxIXrXORG5wPrrgQTzuYFvbxYcU4igl+jRBaFDTDlRJiyN97hSTHg1c/z3Oo9w2sN805EQYVQiUOEZevNQ70Yb9PNptz7cp1R2aYTZqiw7LQRCblFxFgmmxEO6uMc2jHOhIJN94fno0Fytbl7+u5wFHPWqFaVm3FE4elogDelFg8mK+6IEDbdbyaHI/hBWhYVwIHLIGRolqMhT0vmXCquSphOk8DLYutdVTNEj95Sx31iLviyi9FD3RboDmLbqPQx2qgYIt9RfYPG4V8r6Vqv/WEI4gAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Greenland",
+        "english_name": "Greenlandic",
+        "portuguese_br_name": "Groenlandês",
+        "native_name": "kalaallisut",
+        "subtag": "kl",
+        "country_flag_url": "https://flagcdn.com/16x12/gl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAz1BMVEWMCBiZCyDW1tbX19eWCiHV1dXS0tKIBhiMBxjQ0NCIBheOCBrQ0NDOzs7Ly8vQ0NCPCByhDSSWCB6UCCHU1NTU1NT////MFDa8CiLADCXKETGgCh/W1ta1CSCuCyHHDyylDCTZ2dn49PTYZnaKBxf5+fnDGjLaXHHpoa3MGjr+/f3SUGPfboPUPFfHx8eoECzXVWrLy8v22N7cYXjj4+Pfdojs7OzhiZb56eyQCBrtsLqGBhXz0NW2jZPBFC3e3t7nkaG2Sl/PL0nzztTSLEwJvj9VAAAAFnRSTlPhcZPhRTzKNZNxyNUxHyJMucsiH7nW+4O0BAAAAJxJREFUCNc1ydUagkAUhdGDtJ3E0CANipTdvv8zOYyf++5fG9geR9OrZU+cDEdjVuTAaV3f9922vju67tQ70CXJbT75I5HICFQyXvWDDYYSJ0Lo9Ac3yrIwj62w6+QKz7gg1yHyPC8NjrCV5ZLIXlVVRcGA0OuN+xJ0razBtvDSpriRNjCYtoZnm6ZhGKZ2hhnFzBc8QwnTAUBf4L/1fBYiYAaEDQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Cambodia",
+        "english_name": "Khmer",
+        "portuguese_br_name": "Khmer",
+        "native_name": "ខ្មែរ",
+        "subtag": "km",
+        "country_flag_url": "https://flagcdn.com/16x12/kh.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA+VBMVEUCI3sCJIECGGkEJ4AEKH4AK4YAGGoGOZQLOZQEOZQBGGoGPZYFM4wFN5EENo8BGm0AF2YAHG4AHngAIXPjADDiACrbAB7eACEGOKUBIInZABunABdVG3IBIX69ACkEQKgCKosCLqECJ5fTJUIDMqSaD00bH4NzGmPLyMgBJpACKpwjNZsGQa4EPJi1D0zVFjawAyvMZ3i/i5QBFmTd3d0BJYRbH2bgCCzWAzPFXGzQNVC/U2MDNpwDMpcCMJK8cHy7u7tnF2TPSWEKH4gMH3S0tLS7lJvYipUPJX7JfIkBGnjDw8NKDEEBHYK5ubmrUHCUO2wBIYNkF2b5U03aAAAAFHRSTlNyyzU+TCDhkzXhk8hv1rnVyLkiH0GtERsAAACnSURBVAgdBcHBasJAGIXR707+YDKEuhAkBGwptXQlWOhD+Oh9AkVcKBJKuxBB0jgWJ9NzVCQbMN3yYJEhSosLcGMuHYGy0yKROAEVRMrGyvAFzPur+4XXdqPHHtR0TyEegJQ7QLix5a6CBAaCOo9J9Q4MQ/Cwr+jwYJA9Z36Iy/Zl0k8VmL5ptaWEAKMIs3Vjp6L6Bj74BPz7j5Sysc7u7kfDFf8X/gGp4jeRpZ4MnwAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Kannada",
+        "portuguese_br_name": "Canarês",
+        "native_name": "ಕನ್ನಡ",
+        "subtag": "kn",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "South Korea",
+        "english_name": "Korean",
+        "portuguese_br_name": "Coreano",
+        "native_name": "한국어",
+        "subtag": "ko",
+        "country_flag_url": "https://flagcdn.com/16x12/kr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA0lBMVEXLy8vKysrY2NjX19e/v7++vr7Nzc3IyMjQ0NDW1tbBwcHW1ta7u7u0tLTBwcHU1NTU1NTQ0NDBwcH////W1tby8vLs7OwAQpvOMD3T09Pe3t7Q0NDExMRcXFy9vb3Kysrc3Ny4uLj39/egoKDh4eH19fXZ2dmHh4f9/Pzmmp9BPX7e5/L77O1ubm7l5eVjY2OYmJiUlJRSUVKxsbGmpqauutWrgJrjrLNPT0+PqtGSfaE+brGWMlOGNl3bZm9xmcoVU6Vchb19fX3SQ07iiI+Tk5Pn04QmAAAAE3RSTlNxTJHg4ZPLIDzP1eHIOrm5lTExHVhmkQAAAKhJREFUCNclzkcCgjAUBNBYMNjLT5NIR1BBwd673v9KEpzlm1kM0sv1SrPe7aFSH2Md1VDIxmvXo2xhhISEgY0IUPMwhDzs6wMocM1oMr19kiCdOwUA8fZCiHfivxwYoWJ9EuJ6mU4o/IHCfTbjfKcqBc7cjx+c8y0NFUiQqcni5/kIS9MCKwfIMqbW9iryFARESkmcBaMblxlW/lXHeFBCWqdRrba09g9KrRSkXm/k0gAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Konkani",
+        "portuguese_br_name": "Concâni",
+        "native_name": "कोंकणी",
+        "subtag": "kok",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Kurdistan",
+        "english_name": "Kurdish",
+        "portuguese_br_name": "Curdo",
+        "native_name": "Kurdî/کوردی",
+        "subtag": "ku",
+        "country_flag_url": "[Regional]",
+        "country_flag_base64": null
+    },
+    {
+        "language_country_name": "Kyrgyzstan",
+        "english_name": "Kyrgyz",
+        "portuguese_br_name": "Quirguiz",
+        "native_name": "Кыргыз",
+        "subtag": "ky",
+        "country_flag_url": "https://flagcdn.com/16x12/kg.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABJ0lEQVQokZXSwUpVURjF8d8+95T3Uk4yRNCZ0kBHOjDoBZo59bF6ggYNfY1mlgiNslASNciCCulC3nPP/hqcLUj3OHBN9oa9+H9rL750PBq9mDbNbkQ8l/NSRKRcVWMR51I6Dj63KZ2oqq+5aX62DAZ1vZJz3k4576Yj4ilGqHXKaHCNSTkbTMt7jSF+oA4smNVwwPwjjNH2GHB5A5jRCC+xgY94j/NZW74TsIEdBLawjlclzX+AqhfwAIs4xQdsYvU+CRZwiG38wRfM9wP6E7xFKgl+6zr5PmsL1LkPcIXXuiIzPuHiPl9Qpr8p9+sy7i7Ama7gSfFVuh7n/nYLM8RD3QJF4f26BTi4ZK/hXeaiop3ypGIZq5lnWMNK8DgTLd+C/Ql7/wASoHFlPJZzIQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Luxembourg",
+        "english_name": "Luxembourgish",
+        "portuguese_br_name": "Luxemburguês",
+        "native_name": "Lëtzebuergesch",
+        "subtag": "lb",
+        "country_flag_url": "https://flagcdn.com/16x12/lu.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABn0lEQVQokZ2Sv2sUcRDFP7v73WgS42k0P8DrFEljYaNoYa2VdiGF/51N/gmrK1QUm4AgCUbiGZOc4TQ/3Nu9ec9ioxHTiA8e82DmvYFhsrcPHt+PcbOM4q4Viw5lso6Qtgzrlt6HYkMF/VRX+z8iFZnH3Vy+g2I5e3PvkS/nBZNAskEiFDQK6ghG0dZGwVgCiULmPGavqUmKYDaVIIGNbZLhnDPIcpy3FSWw8EmIJXbqimQFRJAtzJF1ZtqQqkL9bXxwCDL4JPyX2cYWLMyTypUnzDxdIZ+7wt/QYJ/48BFt9Yn+NlQVBvKFecrbt5g+GMLa2pr/F71ez7ntM5v/FZJIjURvt+LFYMSgCqqxuVTmdKcKljolS52Sq5PpjHnzW82zd0PSw+c77M5dbI8lg/lDGwTTBSxOFnSnElUjNoc1O4cNrO+Tdo/Hp4bf5MTc8mgMG1Ww8XV0OhOGCBIy7H2G6hjquv0HMsgT5CWkCSgmWk3e9usRHH+HEAnFa4aDVRSviOoTDYHzWciu4biOfBP7BqaLdAHJhL4gvUT16k+9XWQtpcbHtAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Laos",
+        "english_name": "Lao",
+        "portuguese_br_name": "Laociano",
+        "native_name": "ລາວ",
+        "subtag": "lo",
+        "country_flag_url": "https://flagcdn.com/16x12/la.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA2FBMVEWkDyClEB+5Hje1GjGRCROjECKRCBSjCx6rEiWhFSS0GTCsGiqzGS6yFy2wFiyRCBOSCBOVChaXChr////NECUAL28AI2EAIFsAM3MBIl0AK2wBJ2YAHlfRFS2wECOrDR+lCxrIDSC3HDnTHDe5ChoAF0MBNnYPMm5/GT9kIEq2DyIAL2Xu8PUAKV8CGkjOHDhVb5r3+frLGDGaDyHAFStuGUCNBxG+ChlTL1yzChmCGD0gRn68yNgtM2s+HU6tuMvHGzZeVYAlGUimCBVNDic8JVhUTHVZG0ahlWK9AAAAE3RSTlNxPpHgz0yTIMo64THWuZXg4bkxSrcXEwAAAKpJREFUCNcVjtcCgjAQBA9FsbcYSlCDgDRRmr1i//8/8jJvMy+70Kw0qq1Otwe1tqJI0AC7TJwkzzebaIZEFtiOY9vlVDBGCgivnqdT/3EIgyDY3taw9HSd0guJU9NUVQMDOjsTQmLh2gJWlDLmZ1h89IkIjJlmmpG7gY7B+ISn0/Z3+Koa+vMNhRibC2acu/sd8IhbCD+67t49vnb4VVKUUQ3qQ3nQl+vNP0lrF3uh0neNAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Lithuania",
+        "english_name": "Lithuanian",
+        "portuguese_br_name": "Lituano",
+        "native_name": "lietuvių",
+        "subtag": "lt",
+        "country_flag_url": "https://flagcdn.com/16x12/lt.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtElEQVQokVWR0UpUURiFv33OnmlGUipExEQio4i6jIJeoEfwCXqa6EGkV+g+CukqCjIhUUGdGqh0jmfO+dfq4oxTXiz+zWZ/H+tnpy9vNp+j2JL8DLWrtpPFOfYB+JvkrzZ7jcqj8mIyjsKl1V8v0vSpxFb6vL3h5aXEQg9yabBRmKYRdSPqqainpmlNtMI2uTCDnjkdi2yJ5cUeWKBOQDKDDIuDBC66OxtIWOrOMiejmQCJ/UmPUV2CxLUiuDOoWSwD8FzgS5G6fD/L5Fd7a7zdXeNo0sHzWKz2pzxYqLg7rNgY1gxTYJnD88y70ZCPuw2Jly/MzQWIuAIzr/qv8nzNUJfT32QUMziuNrgE55X/E4bnb3LRtjweVzwa1yzVLf02+FPCqJ/YHxYcDEt+lVwVhVipWh4eV+TXOz944h5WIHXfdBnNZlXAz15i1E/kGbxUB5/qinyjalC/wBKWOggjddM2/dasNrByrrlYFiGTJXFSXzCJoJEITDIUQAZ6QE6QDQmQRS1xFkHYZFk7Y7PdWh+aIg6jaSKl/i2Sb1vadPi+8b3A68jXw3bgY9nv2xTbfwH9wIfvANbYHAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Latvia",
+        "english_name": "Latvian",
+        "portuguese_br_name": "Letão",
+        "native_name": "latviešu",
+        "subtag": "lv",
+        "country_flag_url": "https://flagcdn.com/16x12/lv.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA0lBMVEV6GSl+GimPKz2MJzp9Ii54GydmEByFJTV8Hi2RLD6NKTtsEx5uFSFpEx6KJTaUMEJvFCKVM0Z7GihhDhljERuAHSxcDRb///+VHS6cITShJjqeIzd7FyapM0iYHjGLGiqkKj6QGyunL0SbHzKFFyaGHi+kLkOSKj2BGyq6a3eYKz3GhY/lx8udKTytSVjz5Ob9/Pziv8XSlZ/Ee4fu2d10FCGJFyZkEBuNIzTq0NS1T2HT09OjZnDGs7Z+FSLExMRgDxn9+/tpEh6UXGScOUaxn6J6kDHlAAAAF3RSTlMgy9aVMSnhPG/hubmV1UzITJF0kch0Or3bTroAAACfSURBVAgdBcExUsMwEEDRv9ZqZGnAM05BYDK5AAX3PwslDRSEJgm2JO8674U0pSF69lTMSYdF3reFqMls5gLN1BYiXOELwSMKEW00BC+9nZVz3ak+/Tqlt8OkL58AwKuRx+dN/U2N8V++fwD4ULmYOKUce1nxk4VUxQt+va9brz32IYiX3ho54xz/UDTfUEgbgXHOIvO9ok+r7kNl2sMDN5FHFHjkyAsAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "New Zealand",
+        "english_name": "Maori",
+        "portuguese_br_name": "Maori",
+        "native_name": "Reo Māori",
+        "subtag": "mi",
+        "country_flag_url": "https://flagcdn.com/16x12/nz.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAyVBMVEUAGVIBHFQADz0ADTkCHVQAEEACHFMBG1QBGVMAEEAAEkIAE0S+cYJUTXcEKmh4S3AELm7X19c6WomLVXUAH2cAGVoAF1MAHmUAFU8BImoAJG0AHGAAG14BHFsAHWIAEkUlM3EAKHEEJGcBIF7gb4UADzxRQHTbWnOrbY2gZIU+MWIwOXDTcIjNmKpbZYzAf5cTIVkWJl5ldaE1TYe5eZRiSHqUlLSWXIJPapZuXIrieo6KgZmJY4vWQF7AscXXRGG/gp6yIUGhor1bbuALAAAAFHRSTlMgTMg6PuExccuT1bmVudbhyDqR4KZvW1oAAACgSURBVAgdBcFRTgMxDAXAZzsbryhbVLUF7sD9L4SgQvyAiqCxncTM0IGm9MwMXxxFqDyX84Vy2X2C4IDxcnx9OvX8znZb5eZcjhd8jMdrGvIXoi77064dptQfoI0Hq7zF+/3X2+yhm6g76OUPhgxgDyPDXWmwREC0DzIABZYBUQwiAqGyZ4jomGS2ncEobR3JDkyCJitozdFRozJnYKj/A8ZqVC3ZK4RmAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Macedonia",
+        "english_name": "Macedonian",
+        "portuguese_br_name": "Macedônio",
+        "native_name": "македонски јазик",
+        "subtag": "mk",
+        "country_flag_url": "https://flagcdn.com/16x12/mk.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABHVBMVEWrGR7XykLVyj/NoTvGuSWpHCKrHCKcFRO8LTG3kR6zpBWviBabERO3XSGfExa6Ki6yfRq5KC25YiHInTK1byG4kxzInzDdLjLUHCHaJSquFxrhXCjmeCrPGBvRGx7WHiPngizZIif46jLzzCzjZCq8KjDeMzb11yn34C+7ISbYMCPbKS/cRSPtoyuoFhnNJBvJFhnmiiSyHSHzxTjcTCHfPTLUJh/35SnaOyzPuCXOeyHQjSbeSSjcNyjhUyrurC3jbiidERTCSTazhBmYIBGXDxKaEBO9sBzahDzBYRetSRrivxzmtR7u10DJmzLxxSTNwjG8UinuvT3vvSLOfCTtnzvBFxu7PCPrqiTgaSLULDGzMhzclzPeVyPgUCxaawlKAAAAF3RSTlMgOpHIdDFM2+E8kcjhy7nWlbnLlT5vb0vyc5QAAADGSURBVAgdBcEFQgJBFADQjzSohDEzO7PdRSydSyidgoVx/2PwHkRuoqlUrvDwnIgDpGN3MFls39qXy2/Ptu3PzpkD3Wi81wxXYoT0TUksgW4gpIWI/pOhSkVcAh0h120wRjXfETFewc5SFNUfKZYnOnVpP4dDTRoO5H5L0ULVaplTOBIiD3xKR8wRBIEfQ0BkTfXwn9f8qvM8P4NArpptjNm30DxVy5VXCLqdH47jet2PSnmzXr5AMfYIEE885e+Tt8lsJn0FHYEeo8E0XWEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Malayalam",
+        "portuguese_br_name": "Malaiala",
+        "native_name": "മലയാളം",
+        "subtag": "ml",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Mongolia",
+        "english_name": "Mongolian",
+        "portuguese_br_name": "Mongol",
+        "native_name": "Монгол хэл/ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ",
+        "subtag": "mn",
+        "country_flag_url": "https://flagcdn.com/16x12/mn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABs0lEQVQokW2Qy2pUQRRF1310dx5GkiZgwIyMCAEHTlTQcfIJ5lOc+hn+Qj5BcOIgiOIozoIOzEOTSIK2ncftW2dvB7fSOHCwKaqodWrtKt493nzm1G4p4qmlFUvFq/XNi53h6kER+oLYKxRfn//6dvTy85vz60hVXbHqFE+c0lbtSbuzWFbMLSeK8wGW6M0N8ezyulO7STuBNGGmaakUzNlUregbzixqKVise8w/OmP8dgXbFFRQzkBvAJXBsDD7nbWqj0thCVucpoZSChzBwsYB5fACR+AQSBAGGUIQwvmu1Q2RRO0IGCTao1lQ5GTYeYA8hWwjdwZhU0piYeOQq93bLL3Yp1q67Az+jbpV1hS2Tdz8wczDc9JJn3J+ghUZzAZWNoipgTGSkE1tBcj0740pak1Vyeddjdw5v9yl25eKAJuL94uk036nN9WPnK7GDXgDh91VmBwMmOz3uN4bkkYF3Mngfw3yoLyvLbH7eplLJSYWcsN49APKART1NNFe0yiQTaNgpMgG9qefardV8DG5PKRpY1QwpPlzF2sNFQ9w3P89Pl7dba9u2XbYx2F/SPb2X+TvtSjMvGi0AAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Canada",
+        "english_name": "Mohawk",
+        "portuguese_br_name": "Mohawk",
+        "native_name": "Kanien'kéha",
+        "subtag": "moh",
+        "country_flag_url": "https://flagcdn.com/16x12/ca.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAArlBMVEXJAwO6AADYBAS7AADJycnKysrKysrRAQHLAQHLy8u+AADAvb3XBQXBwcHU1NTLAADU1NTU1NTBwcHW1tbBwcHDAAD/////AAD/AgLVAAD//f3/+/vPAADDAADbAAD/CgrIAAD1AQHlAAD/enr69/fx8fHS0dH/MzO9AAD/WFj/6ur/3Nz/4uLi3Nzo1NTY2Nj/Jib/zc3/EhL/Z2f/u7v/gYH/QkLdxcX/oqL/q6uwtPylAAAAFnRSTlM8kZHIMUwfynRv4OHg1ZUi1rmV4bki1UfZ8QAAAIpJREFUCB0FwbFOwzAUAMB7jkPslg1aCTHw/x+FBBJMsJRSJaF1zF1I4zi1aNdbT/VUejzVbhC1S/N5zH/ZRWyOl8P3z7ita01A/30rQIL8UGIqjyBBTB/dV4OW4HpmWYA0wPzC8w5kcBvu74b3EfsEvJb4BLL9POzUMu/1pokplsNpi1zTuvV16//sCjMklr5rmAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Marathi",
+        "portuguese_br_name": "Marata",
+        "native_name": "मराठी",
+        "subtag": "mr",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Malaysia",
+        "english_name": "Malay",
+        "portuguese_br_name": "Malaio",
+        "native_name": "Bahasa Malaysia",
+        "subtag": "ms",
+        "country_flag_url": "https://flagcdn.com/16x12/my.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACeklEQVQYGQXBy2sUSQDA4V9VVzo9Dx+ZdHCCQRsyShQfIEkECXoSvHgRVm/xsIc9LKziX6BIPCiIVz34ugkielQPQpSAMeIr4O5mJB0zeWgSHTM9M+mu7iq/T+RyF45onZ2xNj3sdcblZssRUpqmtcxLkVUfcvf/VIgvqZQLRusfgINSfRgzLAqFMwL+sUK4XDk/zu1HB2m1Fav1DuIEHJny8cYAzTCkVauR1OvIfB7X9+kaHmZNawT8bU+MrGGMZfJTmbFzL6ktF7h29xAmtXw+/BrH91G+jxsEZFHERhiil5aoBgEKMvZVVnj4vJ+oJRnau8DBisP1+wcwQlK+eBGnuxusxTSboBRbPY84DJm+eRMFGdPVLo4NfuXekwGu3hkkainiBKTIiCYmiGdmiOfnMVpjjUFt20ZxZISuU6cQ8KeFLfz1x3v+nd3Kq3dlsgzAIDH8d3IJt78fd+dOREcHFtArK6xPTPCh3UZIRu0QEXtZppd1OtEsU2CNHAtiM0/fXMZEEfHcHNYYEALl+zjd3Ty7dQtxL9hjj589TX5wEFUuIz2PdHWVpFYjDkNa09NshCHC89D1OhaQxSKdlQozu3YhxsfGbO/4OFm9jlUKhCBrt7GA4/vkBgZwgwC3r48O38ekKe1qlfWpKV5NTaGyRoPeS5eIZ2dJFhexgMzncXfsQJVK2CQhnptjo1ql8fYtCEFnEFAeHWVLqYR4PDRkuzZtgv37oacHA5hGA/v9O6ZWg8VFXMch19OD8jwMEH37xq84pnX0KGLyxYs3FAoPtNaTxpialDJL07QkpdwO9BtjdgOV9OfPPqN10VprKRaXUep1kiQPfgMroywF0lE0mAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Malta",
+        "english_name": "Maltese",
+        "portuguese_br_name": "Maltês",
+        "native_name": "Malti",
+        "subtag": "mt",
+        "country_flag_url": "https://flagcdn.com/16x12/mt.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABY0lEQVQokY2QTW4TMQBGnz2eyZAGFaEuEIQFKkLiAiBxgF6hKw7Yg3QB4gQo3YQfEVWFBQpNxuPv6yKTEIGq1pKX7/l7DrPZ7F1/vT7tXd5Wdf3EdpC0BL5gzy5O3n8u0Rcy38Kf7udqVKqkakrp3hTpNPV9f55UaJuGo+dT6rpGEjnn1+vr1clCJheRXSiVGWeI7mkcuJJIq6tfNAdjqhBIIdI0DQBt2zIZH3AUKggRHHEwlrA391IdqWpHPJ08pHp0yGj8gH+PVQCDvQNlY5tik2I74vD4xX/gTmCBhQfIeCcpFsn2rTB4t2ALb18XG8kdApA1CMBoT2AK9xDYwrA3f1iBkEWSdMeCAdxm7FK0+cT7JfC3f/8Ttwnz+ZzlcknXddgmxkhd1zSp5lKZhkAFxEGytvjtskmw/WmxWJzlnD9K+hpjLH3fP44xPkM6/l76Vwp+KTy1PDF2QT8kf8jFZzfiOUJSLtP+tgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Myanmar",
+        "english_name": "Burmese",
+        "portuguese_br_name": "Birmanês",
+        "native_name": "မြန်မာဘာသာ",
+        "subtag": "my",
+        "country_flag_url": "https://flagcdn.com/16x12/mm.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACDklEQVQokTWQTUuUYRSGr+eZd5wZS8dMUmmibwtcZCAFgj+iFtoqKNrWH2jrxnXrfoCBVBBCBe0MDLN2DmF+kJbj+DF+NI3v+z7nbjHj4uLA4b5uOMctvi+MuDQZN+kusj6ZnJn/C/oFbskCPyT3k9RvmCW7ATIiKnnsjoKNu8UZ1NMJhRxkMwBgAeIE4hiOWyQJhAASRB7ybbC1A5EMeoqAWgB4yEegjj5cOIBQb+7VLDjJVqqtAgSbaZ6aZUGQJdDvj2kv3of4D9ReN/0TueX8jiOiV4eXKFdLbKURJqPUfgGPo9KoMHnxEcos825lgd7MMTkZJrGZRHxvFPhaFdGHeh/5NCIoYGZsN7aZuD3BcM8wAIfJDYYGCmw1Ksysf6RcKyMzLBiW1vHBAkGBk1mL93g295TZyiwAHdkORntHWT1Yo7y7iEJLtiYRaWBg2bi+Ch1HEMVwlE/pHoyQGc57plemebvyBpmQhJlxbkdcWYDo+UvPSOxRCGAgOVyxi+L+KXYfPCE7eJOxh/cYmnzBVtHIxqJv13HmQHxuOKLOfUNtAcyQGZIgSdgbe4zSlHj+G7n1DUr+LP1LVSQhGTJhMtyny7fU5Tz1kBJb88sekQFyQBuOHJAFMjRPOLZALaSspTFRMJuvEqZS775IybpLM+Gfc93eJeedcRVpQLJrBiUFOy2kINs0ac7Q1H/pGljKoGRemgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Norway",
+        "english_name": "Norwegian (Bokmål)",
+        "portuguese_br_name": "Norueguês (Bokmål)",
+        "native_name": "norsk (bokmål)",
+        "subtag": "nb",
+        "country_flag_url": "https://flagcdn.com/16x12/no.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABDlBMVEWJCyJ9BhmBBhqrGkaABhl5BBd8BReTCiaVCiaTCiacFTSDBxyrFz+eETKhEDPEkp+oFj6vRF5meZUPNGSmEzsKH0SFBx2TLkBrdYathIy6Cy+kByO9DTScCSavCCarByK3CyzCFEIAJGGpEjoMKmAONm59jarmqraOBx97BRcAG1OiDS5dcpa0CSnOTGnCEj1/krGUCSTERV85TnnPW3OUobrZeI1BWIUOMGgMIEltdYrprbu5iZTNprPQp7W8w9Ljt8Hjq7UIIlW7HjyIGSvPcYGmsMSqf4i4wM/DLEuNm7SoJUfioK2CjqLmpLRGZJDgkqPtw81pe563FUL36e3ahZbFLU6hrcShrcOpO0+AI8BTAAAAGnRSTlM84NU64ZHIIct0MbmRTG/hyJW51uAxlW9MH4q/U2EAAACuSURBVAgdBcHBSsNAFEDR+2Ym48QkRUVKsUgl3Yi46I/41y5FcKNrty0WplDSkMx7niO+DmEKZsVKYawtPO0+iSptTnBCl7JVFu2+0SOgxORgAQCoEjvC82Hlfbn0rL8i2/wgb+67wNLWl3ms/4Yu/KSbXj7s/JsjrFT8C/370cbX06ZKjTSVPJrSFddOZBCuA0oEyCAwE+737rYpsjko4DokyXB1N3uz8+BKZdM/tUtEpNBkQfIAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Nepal",
+        "english_name": "Nepali",
+        "portuguese_br_name": "Nepalês",
+        "native_name": "नेपाली (नेपाल)",
+        "subtag": "ne",
+        "country_flag_url": "https://flagcdn.com/16x12/np.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAtFBMVEVHcEx1GE4ALYcPLoJdPIJcNHoAJISWGk9ZK3IWOo8uK3gAMoiXI10AOYgNLIAALoYAGmYoIGsGI3NMJGpCJm+hE0ATJ3haJWaOFkU8SZQAgICMNXQAMYJoHVgqMYBGKXFpOX1hMnmkHVSAJmTWDzHZEjjgHEngIk3pZ4T++/zrd5DmVHTeGEPEEzu0F0alGUrvnKzjRGe6GkvDI1XPFT/mXnn////87O/88vTiOVvNOWLiNlyubo57AAAAJHRSTlMA0BE0nZ0E75xHaiXoFjpUCn6DgJP7QpHhnQL+OZ2BdcCx/floOicgAAAAfElEQVQI12NgYGCTYkAFktIKnCgCLOrqxoq8KALaGmo8SIpYNCw0tXSMOJhgAqxq1lbKSiaq7CL8EI2sOuqWPJyc8uLCfFAVhuaapuzMCDM4tDTNDFSRRDiAtqiqqLCLwQVU9fR1VVRURAUFIAJyXNzcMlyyjBKMQmwMDACiXgphL1w3nAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Netherlands",
+        "english_name": "Dutch",
+        "portuguese_br_name": "Holandês",
+        "native_name": "Nederlands",
+        "subtag": "nl",
+        "country_flag_url": "https://flagcdn.com/16x12/nl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABvUlEQVQokZ2RzWpTcRTEf/+bG2Nrq7WlmmDtpiK4KwoqIr6Cy+LGRZ/EVxFXgntfoBuliIsKKlYl/fCjbcQ2SZN775lxkYhgN+LAWRwOcwbml54s37vjoloJxy0rmgol4Z7lLaMPId4706ay2k7WKzplPWphL6RSNyOqlfT42m1P1zLqQGZjiZCoFBQSZQSFglIiLCyRLOqGH1GRS8FUnmMJy8gm2dSABglnGU4JZ6O7k5BHs18V5JKwgkbrIvWZc9gmBgP6WzuUR0fYwvbIbCEJeRTUaDXJF1cfcHf1IacvzPO3Bnv7dDc/0fvcpr+9SzU4xsBEq8nsjWXe9buwsbHh/9Xa2poz2yeS/1WSyKsqWH+zw+u3X+j8PGYwLJk+c4rm3DRLi7MsXZ5jbmbyhLm92+HZ81ek6/cf+bA8i2JUkMcobcF4n2jkzJ+fpDU/zWBQ0N494NveIUW3Tb7X6VKfnBq1q98m/Xli0+uXdLt9Pra/j3GPyFlBrgiG/QNUDnGUY2yQSDhlJDJINSCBQQocJaqOcQS5rXUVR0+T/NJoexhF1MWs0KVkL4W4inXFjgXbU5Zsx1eHXph4+gv+xKAz7LuEDQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Norway",
+        "english_name": "Norwegian (Nynorsk)",
+        "portuguese_br_name": "Norueguês (Nynorsk)",
+        "native_name": "norsk (nynorsk)",
+        "subtag": "nn",
+        "country_flag_url": "https://flagcdn.com/16x12/no.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABDlBMVEWJCyJ9BhmBBhqrGkaABhl5BBd8BReTCiaVCiaTCiacFTSDBxyrFz+eETKhEDPEkp+oFj6vRF5meZUPNGSmEzsKH0SFBx2TLkBrdYathIy6Cy+kByO9DTScCSavCCarByK3CyzCFEIAJGGpEjoMKmAONm59jarmqraOBx97BRcAG1OiDS5dcpa0CSnOTGnCEj1/krGUCSTERV85TnnPW3OUobrZeI1BWIUOMGgMIEltdYrprbu5iZTNprPQp7W8w9Ljt8Hjq7UIIlW7HjyIGSvPcYGmsMSqf4i4wM/DLEuNm7SoJUfioK2CjqLmpLRGZJDgkqPtw81pe563FUL36e3ahZbFLU6hrcShrcOpO0+AI8BTAAAAGnRSTlM84NU64ZHIIct0MbmRTG/hyJW51uAxlW9MH4q/U2EAAACuSURBVAgdBcHBSsNAFEDR+2Ym48QkRUVKsUgl3Yi46I/41y5FcKNrty0WplDSkMx7niO+DmEKZsVKYawtPO0+iSptTnBCl7JVFu2+0SOgxORgAQCoEjvC82Hlfbn0rL8i2/wgb+67wNLWl3ms/4Yu/KSbXj7s/JsjrFT8C/370cbX06ZKjTSVPJrSFddOZBCuA0oEyCAwE+737rYpsjko4DokyXB1N3uz8+BKZdM/tUtEpNBkQfIAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Norway",
+        "english_name": "Norwegian",
+        "portuguese_br_name": "Norueguês",
+        "native_name": "norsk",
+        "subtag": "no",
+        "country_flag_url": "https://flagcdn.com/16x12/no.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABDlBMVEWJCyJ9BhmBBhqrGkaABhl5BBd8BReTCiaVCiaTCiacFTSDBxyrFz+eETKhEDPEkp+oFj6vRF5meZUPNGSmEzsKH0SFBx2TLkBrdYathIy6Cy+kByO9DTScCSavCCarByK3CyzCFEIAJGGpEjoMKmAONm59jarmqraOBx97BRcAG1OiDS5dcpa0CSnOTGnCEj1/krGUCSTERV85TnnPW3OUobrZeI1BWIUOMGgMIEltdYrprbu5iZTNprPQp7W8w9Ljt8Hjq7UIIlW7HjyIGSvPcYGmsMSqf4i4wM/DLEuNm7SoJUfioK2CjqLmpLRGZJDgkqPtw81pe563FUL36e3ahZbFLU6hrcShrcOpO0+AI8BTAAAAGnRSTlM84NU64ZHIIct0MbmRTG/hyJW51uAxlW9MH4q/U2EAAACuSURBVAgdBcHBSsNAFEDR+2Ym48QkRUVKsUgl3Yi46I/41y5FcKNrty0WplDSkMx7niO+DmEKZsVKYawtPO0+iSptTnBCl7JVFu2+0SOgxORgAQCoEjvC82Hlfbn0rL8i2/wgb+67wNLWl3ms/4Yu/KSbXj7s/JsjrFT8C/370cbX06ZKjTSVPJrSFddOZBCuA0oEyCAwE+737rYpsjko4DokyXB1N3uz8+BKZdM/tUtEpNBkQfIAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Occitania (France)",
+        "english_name": "Occitan",
+        "portuguese_br_name": "Occitano",
+        "native_name": "occitan",
+        "subtag": "oc",
+        "country_flag_url": "https://flagcdn.com/16x12/fr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABaUlEQVQokZWQv2oUURTGfzM7yY7GaSzUTUIsFMFWwaCFpa+QJ/ExBNP4DnkQCyWNlSKJCCoouoKEdebOzvk+i5ndJOw2nuYc7uX7m115fPhk3vrA1r5Ctyxlr54/nD19cPMLcGL7Y0Sczo/ffWtfvPxdRzHK3O3m8iMUB0Wd/Jr8KmQFZDlYbO/cZm/vxv2U0rO2bUkpMWvndCrYshgpowR+hihQQLEFElignM2NTaqqoqoqFpMmE/5ujLEEEpb40TYURP+w3BI2q2PjiOHf2EL24CAC5CUBrGGwe3ULayCQKC6rDyRrLNge1LW8w6IgAkaCuOBgXQTAjgG8iPAfDvoIPXARp+8gAnJdUHevssowgFc6iHOwBKwv8XIHvdvzCOkXqAHNAfH50wfeTxLj8ZiyLCnLEjU1jTos0yj4o24o0TpGZ0dYb5G+krehrr4+nU53gDuS7gF30+nJ7izV1yRb6LvsN6199A8sj1xU2A1j0AAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Odia",
+        "portuguese_br_name": "Oriá",
+        "native_name": "ଓଡ଼ିଆ",
+        "subtag": "or",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Netherlands Antilles",
+        "english_name": "Papiamento",
+        "portuguese_br_name": "Papiamento",
+        "native_name": "Papiamentu",
+        "subtag": "pap",
+        "country_flag_url": "https://flagcdn.com/16x12/nl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABvUlEQVQokZ2RzWpTcRTEf/+bG2Nrq7WlmmDtpiK4KwoqIr6Cy+LGRZ/EVxFXgntfoBuliIsKKlYl/fCjbcQ2SZN775lxkYhgN+LAWRwOcwbml54s37vjoloJxy0rmgol4Z7lLaMPId4706ay2k7WKzplPWphL6RSNyOqlfT42m1P1zLqQGZjiZCoFBQSZQSFglIiLCyRLOqGH1GRS8FUnmMJy8gm2dSABglnGU4JZ6O7k5BHs18V5JKwgkbrIvWZc9gmBgP6WzuUR0fYwvbIbCEJeRTUaDXJF1cfcHf1IacvzPO3Bnv7dDc/0fvcpr+9SzU4xsBEq8nsjWXe9buwsbHh/9Xa2poz2yeS/1WSyKsqWH+zw+u3X+j8PGYwLJk+c4rm3DRLi7MsXZ5jbmbyhLm92+HZ81ek6/cf+bA8i2JUkMcobcF4n2jkzJ+fpDU/zWBQ0N494NveIUW3Tb7X6VKfnBq1q98m/Xli0+uXdLt9Pra/j3GPyFlBrgiG/QNUDnGUY2yQSDhlJDJINSCBQQocJaqOcQS5rXUVR0+T/NJoexhF1MWs0KVkL4W4inXFjgXbU5Zsx1eHXph4+gv+xKAz7LuEDQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India/Pakistan",
+        "english_name": "Punjabi",
+        "portuguese_br_name": "Punjabi",
+        "native_name": "ਪੰਜਾਬੀ/پنجابی",
+        "subtag": "pa",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Poland",
+        "english_name": "Polish",
+        "portuguese_br_name": "Polonês",
+        "native_name": "polski",
+        "subtag": "pl",
+        "country_flag_url": "https://flagcdn.com/16x12/pl.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABc0lEQVQokaWP3WpTQRSFvzlnUk7QoJgIFeOFWHwEBV+kz+J7+BJ9k1a8CIJQJKL4U5smDYg09JyZWcuLNDao9MYFm5nZs/a32GE6nb7IOe/bfg7s2g6SLoAvwNT2+1LKB+CbpGUppa7reizpWQhhPxwfH3s0GtHv94kxAiCJlBJt29J1HW3bklIi5wxAjJGmaZjP50TbDIdD/lTTNAwGg7/625rNZlS2bzTdJEn/D4i20c8V3bsp6eMJWFTDO8QHI3qPx1SDW/8ctszF4YS4ePmKz5NPOCcsgXV92lT379Lbe0Qc70IVsEQ+X7I6mvB9eUq8PHyL6z52AQl7UwZMPjsnnS2u3kL2+h8hiygXrIJdrpKNEca/Id70vH0XxSZKBVOuk9lANuZt0Aa8ThciWoUTrVg501kIE2wi0AN2COwAEagAW7Qu/HCmWEThNwungxT8OtN+pa1L1YR7peih5SeE8lRmT3iMdFvrZU+LfNSVcvALFCtB2rrj3rsAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Afghanistan",
+        "english_name": "Dari",
+        "portuguese_br_name": "Dari",
+        "native_name": "درى",
+        "subtag": "prs",
+        "country_flag_url": "https://flagcdn.com/16x12/af.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA4VBMVEUBAQEAAAAEBAQARhkAai96KBWoHRACVSQEBAQATBwAYisASRsBAQECZS4AAAAAAACyJRe1KBe0JxaBHhJfKRKcEwqeFAqZEgoAAAAAdDEAZSgAaSwAXiUAbC7eXFAAViJRoHLdSTrYPzEATh4AcC4AeTVWVlbTMSK8IRQARxoGfjysQTepblYLCwvng3m9aWHgY1jlfHPicWd5PiHbV0zoj4feaV/YSj+vFgsif0jFVkqGSia0X0jAhnQ6OjmvoIqecldmZ2XdUkS9jIeVIBLCLR3LPzCOYkaqWVN3EAidPjb7TzOVAAAAGHRSTlPKIJGRIDFvPDzhy8jgdHThTLmV1tWVTLnWj3lhAAAAm0lEQVQIHQXB0U7CQBBA0TuzY1G32BKiaeDB8M7/f5CEF7FSwra6Nd3xHHmcSx2sSHoenVAt1gIcT+9+ip8FdemA1zIBu+sfKShAbuQg1Q0SQQG41V/tTzslIgqw71ZD2RrEjAGcnwQJTsylUoCOb+vvhVycUAO607gO43ZwHhTgor0stv9wtDIA/I3E4kpAeJkzthkaXUb01/4B0z46su0S+CkAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Afghanistan",
+        "english_name": "Pashto",
+        "portuguese_br_name": "Pashto",
+        "native_name": "پښتو",
+        "subtag": "ps",
+        "country_flag_url": "https://flagcdn.com/16x12/af.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA4VBMVEUBAQEAAAAEBAQARhkAai96KBWoHRACVSQEBAQATBwAYisASRsBAQECZS4AAAAAAACyJRe1KBe0JxaBHhJfKRKcEwqeFAqZEgoAAAAAdDEAZSgAaSwAXiUAbC7eXFAAViJRoHLdSTrYPzEATh4AcC4AeTVWVlbTMSK8IRQARxoGfjysQTepblYLCwvng3m9aWHgY1jlfHPicWd5PiHbV0zoj4feaV/YSj+vFgsif0jFVkqGSia0X0jAhnQ6OjmvoIqecldmZ2XdUkS9jIeVIBLCLR3LPzCOYkaqWVN3EAidPjb7TzOVAAAAGHRSTlPKIJGRIDFvPDzhy8jgdHThTLmV1tWVTLnWj3lhAAAAm0lEQVQIHQXB0U7CQBBA0TuzY1G32BKiaeDB8M7/f5CEF7FSwra6Nd3xHHmcSx2sSHoenVAt1gIcT+9+ip8FdemA1zIBu+sfKShAbuQg1Q0SQQG41V/tTzslIgqw71ZD2RrEjAGcnwQJTsylUoCOb+vvhVycUAO607gO43ZwHhTgor0stv9wtDIA/I3E4kpAeJkzthkaXUb01/4B0z46su0S+CkAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Portugal",
+        "english_name": "Portuguese",
+        "portuguese_br_name": "Português",
+        "native_name": "português",
+        "subtag": "pt",
+        "country_flag_url": "https://flagcdn.com/16x12/pt.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABfklEQVQokY2Sz0obURTGf3cyxIxEUkuKKQoF/xTEnbUpBNy6clUornwJN2666FP0DaS46hu4SksjLgRtIVK7STWGSGSEacydued0Memo0NgeuJtzz/e733c5JtgKarGLNzTRV6JSUafGEy96V9fW66b5rnDijDnF884kjnsOcjnfnxGRqhHZ8PtJ/xN5YIy0BMQJZcPilOiaBQZA7BzJcMRPEgpAF/BxQD4VIsMJAwFQ5uHqZAB3C1itBNQYY/GNIdy7YqIOnv4dIICXiR088uF9tcj212UmzTq92Zd0Nkc7SAFy62ChBPWm0pxfprHylmSywmD8X4A/ERychfAtipiOWiw8LVDs9rh5ll7/F+A8hEvTZ8d+pLy5RDh7SMFCbgRAs0+8E+PDERw9scy9sKztwcSXhyP4dx2gafe4DdFnKJ2OFt8HXAMWSMh2oW3hB1AYnjzgD98YAFcZQDngF7so+zh+ojiUx84yfQ5zAs+BeWBGoSigDi4UGhZ2fwOVP67qZstg/gAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Guatemala",
+        "english_name": "K'iche",
+        "portuguese_br_name": "Quiché",
+        "native_name": "K'iche",
+        "subtag": "quc",
+        "country_flag_url": "https://flagcdn.com/16x12/gt.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtklEQVQokW2Ry2pTURSGv6SnOaepIVioF1rqoGIVRUSoBR/AV+hEfCsfwGEfwmEHigiOlNJCodUaeiMJuZyTs/7fQZI2VRcsNmz2/va3/l15+/7j6zLK7TK8Jele4Mq7l3d6G8sLR8C+7b2IOPj2q/3zw+7ZRXV+OKdRslrCq1KxnRRR7ib1JmmSQiVBNitr91lbTp/kef6mKAryPIfWCNI5StdxWqVSraHOOUmEyOpNZJCMZeZrKY1Gg0ajwbQOiib1wxqykYzCDC5Px4CQrwCS+V8ZxuemHUIRJNONEFd0G74ffuVu8zZDVVlMG9gmQngGEBEkobHBrIVtOr02D5oFne4lxycZnns+eV04TEgodD3CDQBQLUzrLGi1ewwIXJ9oa3YNqrMG07bh2eMtimqNdqfH07UXWOMRbkD+MZjo22ZhYZGN9U021jfHKbZOry/Phhjhm+lODP75BZsIY+kvgETv7IRy2KccFVhi/8eA5nCJNE3Jsowsyxj0e0QxRBJR5Iz63fEIlr4U3YudSjn6LOm4LBR5v7N0fu4VYF3SI+Dh3v7lavfo6JZlO+J3hD4pRjt/AP2Ds2aAS6IVAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Peru",
+        "english_name": "Quechua",
+        "portuguese_br_name": "Quíchua",
+        "native_name": "runasimi",
+        "subtag": "qu",
+        "country_flag_url": "https://flagcdn.com/16x12/pe.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAmVBMVEWrESHKysqtDB3BlZeuDRzLy8upCxq9Fy6vDRzLy8vAHDO+GzKVBRCYBhGbCBHU1NTNnKKcCBKyeX3BwcH////WDR/SCxvaESXZDyLdFi3fGTK2Dx+7FSvcEyn1u8Hvo6mbBxHPChimChbyuL6vCxrZGTPxpKzu7u7b29vIGjPICRfADR3l5eWyBxPACRW6Dh7OjZTimqDHl5vLKjjXAAAAFHRSTlM8TB8xdG8i4cuVkciRyOC51uHVubdosY0AAAB2SURBVAgdBcFBTsMwEADAWWtT2oRyQD3yAf7/rF6KqCrF2FlmwhrDpfoYrbJnxrfBkZZxvruNPb4O5AufP2FeEwUIk0ZJwERTEtgnoZG9L4BwtMougAib1AOAjRQmYIO8vD3efSzyb91l/cZ5jNOII3OtmlXPf5g0Lo9DqybIAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Switzerland",
+        "english_name": "Romansh",
+        "portuguese_br_name": "Romanche",
+        "native_name": "Rumantsch",
+        "subtag": "rm",
+        "country_flag_url": "https://flagcdn.com/16x12/ch.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAgVBMVEVHcEzKAgLMAAC/AADWAADWAADLAQHSCgq8AQHPAgLJBQXNAQHFAAC3AAC6AADYAwPVAQHNAwPJAADBAAD/AAD////PAADaAAD2AADUAADdAADoAAD/cHD/ISH/V1f/iYn/PT3/X1//39//ERH/xMT/0dH/qqr/lJTBAAD/oaH/JydO9sNkAAAAFHRSTlMAPyPfA+CbNzdnNKUjYLm5xkxMxk0oQ4IAAAB0SURBVAgdBcFLDoIwFADAKX2IoBjdeP8LmiiG4g/qTBaHfsunbbc26Zzbb9KdE7JabXV6BfnDda4FLQ1QytIDAUP+AisB8UR3LDOCVXupdw8jBNwc6VQIAGl5QQC5T7GAoFGVLd4hj5NkSN3HvF/Hu0Ndfn8h+Cs9zF5jOgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Romania",
+        "english_name": "Romanian",
+        "portuguese_br_name": "Romeno",
+        "native_name": "română",
+        "subtag": "ro",
+        "country_flag_url": "https://flagcdn.com/16x12/ro.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABdklEQVQokVWRTYoUQRSEv6w/u8URUZARx5U/4AUUXLhw4RUG5jxzA/EQcws3LhTBpSAKQs+A4KgjOnRXdb0IF5XVXb0IXi7yfRkRmeYvjp+tu/7QoaeS9h1Kr4/eXD5/uFhgfZHTZ4e//vlYnZ2/Kn6tXJdVsz5Qpye2Dqvlqn9LOYeqBCeoxJ3bNff20+O2Sy/bTnSdaNeJItXM6Sk60zjxU6ZCgmYGIbBA0JRm7yrszQESuODGrZImVRhjhBE/6KiIGJZDoCwLHGADBhtLgxCysU3YIyAmAE8gA8A2thDKZyNEMEYYl/O0AzxcHiBsIc4hPGjrQNqRLTADwEBeVnYkK0dQ7OYfl+UdgOX8+sQFyg6mEE+6MLlENrm9cTE62PxATACeWN9O5R7GDnKJAavfEC24B4lviyWfrgdXapg1MKvhshWtA9m0Fn83DqwP6N8J8B4tT1kTKG6eX+huQbpv6ZHgwcVZOjiN9prBgb+HeRfRn/wHcOGJzSPx/g4AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Russia",
+        "english_name": "Russian",
+        "portuguese_br_name": "Russo",
+        "native_name": "русский",
+        "subtag": "ru",
+        "country_flag_url": "https://flagcdn.com/16x12/ru.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtklEQVQokX2N22qTURCFv53sJH9ao8QGbEgVoaL0yl4pCj5H38lbr32Agm/gA4j1hHehRttqWxITaukh5j/MLC+SHjzgwDCLxaxvhV6v97goijVJD4FFScHdT4FvQE/Sppl9Bvbc/cDMyuVyecndH4QQ1kK321Wr1aJerxNjBMDdyfOcNE3Jsow0TcnznKIoAIgxkiQJw+GQKImFhQX+nCRJaDQaf/mXZzAYTAEAO4Mxw8MUgFqlxO3FORpzlf8CtvePiU9ffOLl5lf2vo/BBe6zKxabNe7dbLDcnufWjTnqtRJysTs45dXHPu/ebBB48kzUO2AXwfPVzNPZ+rRADm5w0iNiNg3b7+3ngH+Fz7Q7sWQFq9kWq9k21+yEmmUckTCgwZfQYiu0OKR+AZtB2sUB97MPhOcrK3pUnSBz5NMnSbPiqR5TZcQ8/XCViue07QdNO+L9JCc2iyNUjsgduc5DlyE1JnQ0oa3R1J/9mUSUG/sT56c5mYS7CEAZEQlUA1SBCJQkXCJ1cWyOuYgu3o5c605pI3Xf9TwzqpXrpYJOCLZsrrsu7kgsSbrikszVN/lrk63/AkXyWR36laTFAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Rwanda",
+        "english_name": "Kinyarwanda",
+        "portuguese_br_name": "Quiniaruanda",
+        "native_name": "Kinyarwanda",
+        "subtag": "rw",
+        "country_flag_url": "https://flagcdn.com/16x12/rw.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB2UlEQVQokVWRT0uUcRDHP/PbZ3N3XctVqAUlRK3oENElwTfRUTr3Bjp06T10CbrUsZvQobcQhVC4EmQQYpSVqJRbtKs+/37z7fCI6WHm8B0+M9+ZseazlcVCWpJ8waO6kizID+T6bvJNnA0TnwP5diH1KVRLok07uu2RJePpG9Eeh3oDQgICYoSygDyDPIcih6KodAmsBskI/PlFgju0O+BURQdqNQjnoN6CFlVTCZMzE77RsT6fsisc7u8RcK8gVxVSBbjO6g5jGnB/9DEPRh9xkV2ITkLUKZizDcQZbagWK0cLtBiyk3ch9klwcd4G3GyuM1ffwiR+lh228y6b6QyD2D5eTbiMF4M7mDtlrLHQ7JE8ufSQe9d6JIoAJ1NVJfaKSTaOZtnKpnAPmMRkrc9iq8d6GGJrL0035o9BQDpt/b9eHbkyU60Ir99DkhXGqy8dPuy0+fp7BLnoNHK6oxmXx1NmLqTMTqSEU+48wsfdBs9Xm9j1u7eUNsZwd3QSQscfkQtJdNspQcJd9A8CBykU+0OSv4cGxSGel6h0pAoAwAAzMNhOAyAUhceIZyVykUha9aNy2RTfKedH5mWsB5uQfMqi5ly6Kmke17Tc25Ik167c36osl/8B14tVY1iorXMAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Sanskrit",
+        "portuguese_br_name": "Sânscrito",
+        "native_name": "संस्कृत",
+        "subtag": "sa",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Russia",
+        "english_name": "Yakut",
+        "portuguese_br_name": "Iacuto",
+        "native_name": "саха",
+        "subtag": "sah",
+        "country_flag_url": "https://flagcdn.com/16x12/ru.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtklEQVQokX2N22qTURCFv53sJH9ao8QGbEgVoaL0yl4pCj5H38lbr32Agm/gA4j1hHehRttqWxITaukh5j/MLC+SHjzgwDCLxaxvhV6v97goijVJD4FFScHdT4FvQE/Sppl9Bvbc/cDMyuVyecndH4QQ1kK321Wr1aJerxNjBMDdyfOcNE3Jsow0TcnznKIoAIgxkiQJw+GQKImFhQX+nCRJaDQaf/mXZzAYTAEAO4Mxw8MUgFqlxO3FORpzlf8CtvePiU9ffOLl5lf2vo/BBe6zKxabNe7dbLDcnufWjTnqtRJysTs45dXHPu/ebBB48kzUO2AXwfPVzNPZ+rRADm5w0iNiNg3b7+3ngH+Fz7Q7sWQFq9kWq9k21+yEmmUckTCgwZfQYiu0OKR+AZtB2sUB97MPhOcrK3pUnSBz5NMnSbPiqR5TZcQ8/XCViue07QdNO+L9JCc2iyNUjsgduc5DlyE1JnQ0oa3R1J/9mUSUG/sT56c5mYS7CEAZEQlUA1SBCJQkXCJ1cWyOuYgu3o5c605pI3Xf9TwzqpXrpYJOCLZsrrsu7kgsSbrikszVN/lrk63/AkXyWR36laTFAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Sápmi (Norway)",
+        "english_name": "Sami (Northern)",
+        "portuguese_br_name": "Sami (Norte)",
+        "native_name": "davvisámegiella",
+        "subtag": "se",
+        "country_flag_url": "https://flagcdn.com/16x12/no.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABDlBMVEWJCyJ9BhmBBhqrGkaABhl5BBd8BReTCiaVCiaTCiacFTSDBxyrFz+eETKhEDPEkp+oFj6vRF5meZUPNGSmEzsKH0SFBx2TLkBrdYathIy6Cy+kByO9DTScCSavCCarByK3CyzCFEIAJGGpEjoMKmAONm59jarmqraOBx97BRcAG1OiDS5dcpa0CSnOTGnCEj1/krGUCSTERV85TnnPW3OUobrZeI1BWIUOMGgMIEltdYrprbu5iZTNprPQp7W8w9Ljt8Hjq7UIIlW7HjyIGSvPcYGmsMSqf4i4wM/DLEuNm7SoJUfioK2CjqLmpLRGZJDgkqPtw81pe563FUL36e3ahZbFLU6hrcShrcOpO0+AI8BTAAAAGnRSTlM84NU64ZHIIct0MbmRTG/hyJW51uAxlW9MH4q/U2EAAACuSURBVAgdBcHBSsNAFEDR+2Ym48QkRUVKsUgl3Yi46I/41y5FcKNrty0WplDSkMx7niO+DmEKZsVKYawtPO0+iSptTnBCl7JVFu2+0SOgxORgAQCoEjvC82Hlfbn0rL8i2/wgb+67wNLWl3ms/4Yu/KSbXj7s/JsjrFT8C/370cbX06ZKjTSVPJrSFddOZBCuA0oEyCAwE+737rYpsjko4DokyXB1N3uz8+BKZdM/tUtEpNBkQfIAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Sri Lanka",
+        "english_name": "Sinhala",
+        "portuguese_br_name": "Cingalês",
+        "native_name": "සිංහල",
+        "subtag": "si",
+        "country_flag_url": "https://flagcdn.com/16x12/lk.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACFUlEQVQokU2RTUtUcRjFf/9774wvTWJSU6EIokQSFi4ycFEQEQQtaiUt+jJtWrQPP0AbIXr5CEJBWW0qiMoJLK3RxvFlvOPMvfc5TwtDXBzO7nDO74TlF1dni6KYc9cVXGdcFiRPkX4By+76ZlKNPF4TWdMyi+PIRxRpJkhzyUaq10/WTpGlHR5WFglJQrM0xcrnMNlpcbO/mtN7IqNUKShXhOXQ3onYrkf0VbskX7djHv84yeVkgzjpEJV7UB7Y/h1o1hK6aQm6x3B35MIl5GLqzg7tXUhcBmYQGW7gcmTOn/e9TFzfY+uvMzrdYWtLFCaUwcpiP0vP+7h4PyVyE0gcOCBw2YGiguR4l+rkPsOTXSgX1GoFvcP7IDCJ6LCBGRgHLdyQDEsy6p9KpHtGp2s0PvYwUS0TFDAXMj8yIQg3CPLDgPX1gum7GRfGYmTO7KUOyFmYL1H/IiQdZXAwwQ0cYS7auzB42si6sLXp7LdgfFw062AIyUkwgRn+H2Iw8EgUSUHcKPPsQR/X7rV59bLM0Flj89YeHoncDZkfZaDDF0p9BVM32qT1hLhXrKwaWRpIPWP5u9NswMztFpIITx+d8zfNCjODLSbKKXKnyEs0fsakmxGtRkzaDLR3I4oM5KJnoGBgtMPw+Q7hw/zYOzMt5Hm0JLfVyHIrQhiKLAyDxmV+DnwChRE3VeRyM+ru/jbLfOEfZeOLQrkug8gAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Slovakia",
+        "english_name": "Slovak",
+        "portuguese_br_name": "Eslovaco",
+        "native_name": "slovenčina",
+        "subtag": "sk",
+        "country_flag_url": "https://flagcdn.com/16x12/sk.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACAUlEQVQokX2Rz0uUYRDHP8/7Pq+7q7sR7kZLu5ZWBEERFCaFhwgKCrp00L+hY/9Kt/6BwEsh2KVupoRlFylaZbVEd911zVx1qffHM9NhN4kOzuU7w/D5zgxjqtXq7SRJJlV1DCiqqhGRDrABVFV1xTm3CtREZNc55/u+XxaRm8aYSVOpVLRQKJDJZLDWAiAixHFMGIZEUUQYhsRxTJIkAFhrSafTtFotrKqSz+dRVXSzBgpm8CSpbJZcLsdx0Ww28VQVgP2ZNxw8miB8Oc3++D0OHz4+FgZYb+xjn71e5t3zb0zsLPF0qIR/fhj74D7J/HuuPpmmnO9n+PQAQ4UBMn0eIkqtdcjClwafPi5gX8yt42VLgIJzSL2BCSzG99nZ+8Varc2sKoigPUUEFYeKw6oT1AkrhbNMVZZ4O7PN2NYyt4pF2och5n9YBe2ZIA7rJTE32t85U6tRHx1npn6CxcsjdJIqo1vrrKYG+eGlMUegoiKUw12u//yMeXXumt4hPHL9OnqXUn2V3MZad6pCxwvY9vupBzlSLqIc7XEqPmA+ijCzxRG9EgS9NQVU6T5Gu/lfVf6puyfNRRFWRdiMQjoiRL2GASzQB6SBFBAAPoqq8luUtjicKlZUF5volMCHOE42jfFcEphBk7iSUS6o6iWBi6iUFc0KqKg2RFiIJJn6A05iUypSD4lJAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Slovenia",
+        "english_name": "Slovenian",
+        "portuguese_br_name": "Esloveno",
+        "native_name": "slovenski",
+        "subtag": "sl",
+        "country_flag_url": "https://flagcdn.com/16x12/si.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABg0lEQVQokY3Qz0qUcRTG8c/MvOarJVQOOdBkYVHWQmhRSe2CrsF7sttw4y2EQQvBitCFLYYwsJzCaSoFFZ153/mdFooQgfbAd3E4/55zKhsbG0/LspyLiCdoREQlpXSALWxExKfBYPAZ31JKvweDQa1WqzVTSo8rlcpcpdVqRb1eNzIyoiwzEQwPJ0VR6PV6+v2+Xq+nKAplWYIsy+R5rtvtyiLC+Pg4h4ea9wtXYt/69wl5nhsbG3OWOp2OakSAL51hzx+FmQfJ+jp7e2f2gs3NJJufD0tLtNtVCy/3dXeHzMwcFzQaTE8zNcXkJKOjpES7zcoKq6sJPgYRRDy80Y17Ezun8fksR0acWlrbqp/v+y8lWU1h1rJZb9X9lDuy67K2ppZpLdN++XfwTZueWVB55Vq88OPMPfsu2tbQ1pQ7csumho43sPb/B//DayILfMUB+o4/UsUQhpGfcAHZSb6HHSRkwYcOiwXvE+0qg5KrVa7jduIu7qAZXErEgO3gXZ/FP2mE5RCEWdeGAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Sápmi (Sweden)",
+        "english_name": "Sami (Southern)",
+        "portuguese_br_name": "Sami (Sul)",
+        "native_name": "åarjelsaemiengiele",
+        "subtag": "sma",
+        "country_flag_url": "https://flagcdn.com/16x12/se.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB3UlEQVQokU2RTWtTURCGn3NyU5smrR8YUHuVYkOruOnCD3CtguBGECq4ce8PcOVv8AcIosvShTuXrnRRKWLFRakRgk1DS2ibpG0+7r0z4+ImuV0MhzO888zwvq7w+v39OLJlU7mnwiVv4n4+fHVi5reXPr+tomw5lb/ey07cswOIcwEuVOWuJrIc9CL7xkQJfB5wYEolVPoRN3Xy7COSCJIYSWIIBNST4CAXQNQiQBTOFEEMVMEZk3nI54B8EYIpMAO17BVNtUf7BIhkw6qpyEhr9D89PNKJgkh6wWJpm9vn/lApNvBjgHFr5h+bh5cRcUOAjiFF3+XBtXXc6sfQni3Vs62jShkA1Dplap0yoKBwceKYGzMN1n4rwWKpTqKerdYVakdlVB1Pwh8YkIgncMpcscncVBP01AKFzYMy7umb5/Zl8Jh2vwCqeBOSly8Qdcx8eMfCdIP56V3CqX2mcwMicTRPSnzduU61ekTwqXYHzhcyZy09E4XeIGCjf5WNvdlTHmimldYohWHTFEzGgHFvnIZmRopkKdBuQtSDJMYs4VcVvAc6e+ADcDnAp46qQhxB1B0CVNfpH66g+p1Bv26Wk/YxF1Rslm5rHrMFTCuohpiWUDVUdlFbw5KV//qiRWhMTrdRAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Sápmi (Sweden)",
+        "english_name": "Sami (Lule)",
+        "portuguese_br_name": "Sami (Lule)",
+        "native_name": "julevusámegiella",
+        "subtag": "smj",
+        "country_flag_url": "https://flagcdn.com/16x12/se.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB3UlEQVQokU2RTWtTURCGn3NyU5smrR8YUHuVYkOruOnCD3CtguBGECq4ce8PcOVv8AcIosvShTuXrnRRKWLFRakRgk1DS2ibpG0+7r0z4+ImuV0MhzO888zwvq7w+v39OLJlU7mnwiVv4n4+fHVi5reXPr+tomw5lb/ey07cswOIcwEuVOWuJrIc9CL7xkQJfB5wYEolVPoRN3Xy7COSCJIYSWIIBNST4CAXQNQiQBTOFEEMVMEZk3nI54B8EYIpMAO17BVNtUf7BIhkw6qpyEhr9D89PNKJgkh6wWJpm9vn/lApNvBjgHFr5h+bh5cRcUOAjiFF3+XBtXXc6sfQni3Vs62jShkA1Dplap0yoKBwceKYGzMN1n4rwWKpTqKerdYVakdlVB1Pwh8YkIgncMpcscncVBP01AKFzYMy7umb5/Zl8Jh2vwCqeBOSly8Qdcx8eMfCdIP56V3CqX2mcwMicTRPSnzduU61ekTwqXYHzhcyZy09E4XeIGCjf5WNvdlTHmimldYohWHTFEzGgHFvnIZmRopkKdBuQtSDJMYs4VcVvAc6e+ADcDnAp46qQhxB1B0CVNfpH66g+p1Bv26Wk/YxF1Rslm5rHrMFTCuohpiWUDVUdlFbw5KV//qiRWhMTrdRAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Finland",
+        "english_name": "Sami (Inari)",
+        "portuguese_br_name": "Sami (Inari)",
+        "native_name": "sämikielâ",
+        "subtag": "smn",
+        "country_flag_url": "https://flagcdn.com/16x12/fi.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA1VBMVEXQ0NDY2NjX19fX19fBwcHBwsXNzc3Ozs7Jycm/v78COGkBN2dXeJbBwcHQ0NC7u7u6urrBwcFKWnsAHkoAH06ztbr///8ALGgAOnYAKWTX19cAL2wANnNniKwAM3DU2uLj5enQ0NAAJl719fXo7PLu7u7Ky81BZ5MeQHK6xtb4+PgtUHyUqsPe3t7l6e+8vLzh4eFkfqMAIVEhU4gMQXthgKZsjrI+WoSlsbyGm7cAHEYAHUh2iaYANWaGmbSeo6okPWG/v78AMmTIyMjK1eFXdp5RZoPddVtgAAAAFnRSTlM8kcjgNZXLciHh1rnh1UzIkbkfTDFva3qVswAAAJ1JREFUCB0FwcuKwkAQQNFbZSWdlxgFBQOKuHDj/3/N7MdBxrcJtnY6niOISB7lra4zXm6Qpozu8cHJ+AQsOmkCuA/VHQBqBQADAFjZOt4q+dNp1neTez7vLfmhRftfAi/1fmkJpvQEUMgZRkW5uewOcduOyzSb1WZde+QfWu+BM3sDQAEAOBvN0c2FZ5FE5zVDUvFZoYNeqxBI5fkFe602/f/VBL8AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Sápmi (Finland)",
+        "english_name": "Sami (Skolt)",
+        "portuguese_br_name": "Sami (Skolt)",
+        "native_name": "sääʹmǩiõll",
+        "subtag": "sms",
+        "country_flag_url": "https://flagcdn.com/16x12/fi.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA1VBMVEXQ0NDY2NjX19fX19fBwcHBwsXNzc3Ozs7Jycm/v78COGkBN2dXeJbBwcHQ0NC7u7u6urrBwcFKWnsAHkoAH06ztbr///8ALGgAOnYAKWTX19cAL2wANnNniKwAM3DU2uLj5enQ0NAAJl719fXo7PLu7u7Ky81BZ5MeQHK6xtb4+PgtUHyUqsPe3t7l6e+8vLzh4eFkfqMAIVEhU4gMQXthgKZsjrI+WoSlsbyGm7cAHEYAHUh2iaYANWaGmbSeo6okPWG/v78AMmTIyMjK1eFXdp5RZoPddVtgAAAAFnRSTlM8kcjgNZXLciHh1rnh1UzIkbkfTDFva3qVswAAAJ1JREFUCB0FwcuKwkAQQNFbZSWdlxgFBQOKuHDj/3/N7MdBxrcJtnY6niOISB7lra4zXm6Qpozu8cHJ+AQsOmkCuA/VHQBqBQADAFjZOt4q+dNp1neTez7vLfmhRftfAi/1fmkJpvQEUMgZRkW5uewOcduOyzSb1WZde+QfWu+BM3sDQAEAOBvN0c2FZ5FE5zVDUvFZoYNeqxBI5fkFe602/f/VBL8AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Albania",
+        "english_name": "Albanian",
+        "portuguese_br_name": "Albanês",
+        "native_name": "shqip",
+        "subtag": "sq",
+        "country_flag_url": "https://flagcdn.com/16x12/al.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABNklEQVQokY3SPU9UQRTG8d/cvatuIBZosYkURoWOzkBC+AQWUlJaW/upqPwGWqNUVsZAw4tACBCL9WXv7hyLO8pmd018kpMp5sx/nnnmpINeb3PUNDsRsSHnfkSkXFUDEcdSOgi+jFM6VFWnuWmux3Q6db2cc15POe+kz8RD9FBrldHgF4ZlbTAq+zXu4RJ14IFbfccnfMXjUou4b1YXfwCTyniL93iOGyxgC6+QpnpnAN1i9yP20S+Q/hwHGdU0AJ5grcDOENos5gFmHIzwEy+xh294gc6U/X8CFrCNK7zDM+0P9cvTuhO9gTrPsbZSahs/8Kbc3vkfB5N6jcrtfEzrL+AIA21QUQ51cVc7MEPcKaDQDtbNBGD/gt2GD5mTivGIpYpHeJpZLVEsB4uZGHMe7A3Z/Q1VBHB/y8GZJgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Serbia",
+        "english_name": "Serbian",
+        "portuguese_br_name": "Sérvio",
+        "native_name": "srpski/српски",
+        "subtag": "sr",
+        "country_flag_url": "https://flagcdn.com/16x12/rs.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACHUlEQVQokYWQTW9UdRyFn/nfO3dunWKhoVLTRo0QgroyJiVhpwtYuHDJ0o3fw4ULt36N7jVGTWlDQqJgKCFIBKWRgYbWWjq1vZnel985LuoLO5/k7M6TnJzelx9+dEltXJXiokPzUvRsVw49kfWr7YegRyZt6qh7XndtlnIWCS0p4mquprsxk2UUWUaWG81M83zY8tKz6q3usL7cRNCEaaMlemIqgyRTALsR5Irg5aLAErKp3u4zUx2i4ZCpP07A5i6khPMcS/9GEjv1EbkUOIIt93HeZ66u8CsTumxCdzfIwlgC+z/ZRhJb7pMvpzOsD95kRxlXzgz47PWSNP8G4+tfsfHBO3xx7QGvasJcTCgI1BM77nM/m+Jh/4D8mzRLTxkOwewpyqUlxo9HDN59n3owx51rm9zpDSET7gl8vAIF1vj4gxTCIbr9fSgKTpQlMT3EW0fHRRv0t2yBhBVYQZ5sli4s8N75RS70a/68/R0dp2n3f2dqsMCp6ZLd8QE9+wVZvDZ/kouXFuHbtRv+B3Wdb3/+iX+7d883P/3Ym2tf27YPqol/GW177dbP/v7uIz/bGdu2V1dXzfr6ul8k6tp7P933weOR/4+VlRXnthmNRlRVRdM02CalRL86ZLCxQVmWlGVJURTkeY5t6rpmb28PSeS2f9ze3l5u2/ampKcppei6bjaltACclXQeOAcs2p6W5IjYsv1D0zTLfwFieroLYUFKvwAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Lesotho",
+        "english_name": "Sesotho",
+        "portuguese_br_name": "Sessoto",
+        "native_name": "Sesotho",
+        "subtag": "st",
+        "country_flag_url": "https://flagcdn.com/16x12/ls.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByklEQVQokXWQz05TYRDFf9+9l5ASRajGqEAgEf8sjCGpUaMu3PQZ2PsiLty4cdVF38CEV2BjhFjU2I2oJGhTKqCotZRSCt57vzkueqNE4SQnJ5kzM2cyLnf1yZ3kVzorpbfM7Jy8uQDtSVp32CekVRf4WiBtJr2kxaCFkQXj5v1NMz/rmHwsghwQghyYQB4sBUtASaYpmAcJBCgA2yVCHlwOZBkzkwFwETAIgfqDzrIAy0LaRCHi/u3z3Lh2humpYaLQsfV9j40vu6yt7/BupUnjcxvgUIhxZXqUe4VReL5Y1XEol8uan59XknjV19qqN9qqN7a1vb0vSapUKopOjw5yHFqtFmZGsVhkavLUf76ZwfLy8pHp1WpVIyMjKhQKiuP4yJ6FhQUFkgBoHuxQbX5k6dsH6p2vvF9dYWZmhm63S6lUOvLCre5P3IOnj/QsrFHvbIJZ/9tmBHJcyOWZCPNcH7vExMmzDA8M0UsO+LHX4uX6WyqLL3A8vCvGh/rDf6hDy/RX//Vru0SYh2YP9hNIsgYEzkEIhJkG9OtmEBv0EvBGhOkNnXiOOH2NpRsEkSe2PAFjeH8R02Vk0xjjmJ3AJMy2SPUK+bnfRztwV5Xp0mMAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Sweden",
+        "english_name": "Swedish",
+        "portuguese_br_name": "Sueco",
+        "native_name": "svenska",
+        "subtag": "sv",
+        "country_flag_url": "https://flagcdn.com/16x12/se.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB3UlEQVQokU2RTWtTURCGn3NyU5smrR8YUHuVYkOruOnCD3CtguBGECq4ce8PcOVv8AcIosvShTuXrnRRKWLFRakRgk1DS2ibpG0+7r0z4+ImuV0MhzO888zwvq7w+v39OLJlU7mnwiVv4n4+fHVi5reXPr+tomw5lb/ey07cswOIcwEuVOWuJrIc9CL7xkQJfB5wYEolVPoRN3Xy7COSCJIYSWIIBNST4CAXQNQiQBTOFEEMVMEZk3nI54B8EYIpMAO17BVNtUf7BIhkw6qpyEhr9D89PNKJgkh6wWJpm9vn/lApNvBjgHFr5h+bh5cRcUOAjiFF3+XBtXXc6sfQni3Vs62jShkA1Dplap0yoKBwceKYGzMN1n4rwWKpTqKerdYVakdlVB1Pwh8YkIgncMpcscncVBP01AKFzYMy7umb5/Zl8Jh2vwCqeBOSly8Qdcx8eMfCdIP56V3CqX2mcwMicTRPSnzduU61ekTwqXYHzhcyZy09E4XeIGCjf5WNvdlTHmimldYohWHTFEzGgHFvnIZmRopkKdBuQtSDJMYs4VcVvAc6e+ADcDnAp46qQhxB1B0CVNfpH66g+p1Bv26Wk/YxF1Rslm5rHrMFTCuohpiWUDVUdlFbw5KV//qiRWhMTrdRAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Tanzania",
+        "english_name": "Kiswahili",
+        "portuguese_br_name": "Suaíli",
+        "native_name": "Kiswahili",
+        "subtag": "sw",
+        "country_flag_url": "https://flagcdn.com/16x12/tz.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA81BMVEUookOxnh4rpEcup0oAbJ8BAQEAAAAtokUAa58Aa54AYZUnoEAinDwknT4imjklnz4hlDEAcKElIQgAcqcxKQQAc6UAc6UAdaQAAAAmukMAmNcqvEgAldYAi80rvkoAktVhUAguwE0RDgEqpEaOeA4AbaEJCAAnoTohnDo1LAR3Zw4vukYAj9NcwDcrs0i3rzAHm9KikRddrY4AdKckqz+3ohoAgrk0pK6mxiiQt2W1tTw/NATFwh8jobtvXQu2rxtLvToqt0dzwjMAZ5wAZJoAebcAhMXHuRs4pauExDCTpx+ciBYAhsFLnS0ogYoPgaZ9lEooShwoAAAAGHRSTlPhIsiRk3TLNeHPOtZvlUy5H7k+MT4fb0z+FayFAAAArUlEQVQI1x3L1wKCMAxA0aCg4t62FAQZIijDgXvvrf//Nbbm7eQmkIzHADKFXDafLHJlIQGG3yVk549Gtn3XEEJgtFpNQjDGt8ihduni7/2FZfR4g92k9JbrNqXevw6hQ3B3auosL4KVRBd4u2HPSDdnoSRb0PH67LrtzieSJKsWvEyWtWBAKas9C1xKJxqEjGpPOQDL3894/FTonE9HSAhVrlZp1PmSmEqJfPoH0kkZN7/Ivn0AAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Syriac Christian communities",
+        "english_name": "Syriac",
+        "portuguese_br_name": "Siríaco",
+        "native_name": "ܣܘܪܝܝܐ",
+        "subtag": "syc",
+        "country_flag_url": "[Regional]",
+        "country_flag_base64": null
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Tamil",
+        "portuguese_br_name": "Tâmil",
+        "native_name": "தமிழ்",
+        "subtag": "ta",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "India",
+        "english_name": "Telugu",
+        "portuguese_br_name": "Telugo",
+        "native_name": "తెలుగు",
+        "subtag": "te",
+        "country_flag_url": "https://flagcdn.com/16x12/in.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAByUlEQVQokW2Rz2sTYRCGn2/3i22skTRau2AQqVrwIgr+QG/1IN68WQTxLP5dXnr1TxALVTwoiqC0UDClTaItUpvsZnfe8dAUi3FOM8w7zwzvhE8v7t6zSstudkeyzM2Duw6Qf3dpXQrfRLVBlWy5D3dV1FKlZRvTbaTlWJXVautEQv1ESiQBCTNRVnZ1ZDwoSmNkUIYS8xSPJRFnKgb6Qye6iTO1iJuBBO7UcKYT8ACkCSgcFhKuwyVuonsgosxwM0JznjDTPISMcqy/BYN9cIEc3HFpDHEwx2czYm3pKScfPSNpznE8Op2ffFn7QGPQ5Xo7Ena3oRgCgdDKSK/coN77TUxvPpwYBlhf3+brdk6WXSQ25rh1//GERt1VEnefaADEmNJo1HEXRVH+VyOJWFrFm42PrG1+5sf+HnlZ0JyeIWucZddyFusXWFjIJoY3ex1evn5FOPd8yXu1IRx9YWzY8XymVic73aLdnCcf5WzudOju9aA/JPDkmjM7Baa/jusIwBj2D1QCc+gPiJjBrxxGFVRjAWNfEiAECEeHj2GVQWEgJyK9Z2ArWHiHeQcvDU9bmM4TdAkPi8guI9q4TiF35DuYv8Vt5Q/VNC69MV+jkQAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Tajikistan",
+        "english_name": "Tajik",
+        "portuguese_br_name": "Tadjique",
+        "native_name": "Тоҷикӣ",
+        "subtag": "tg",
+        "country_flag_url": "https://flagcdn.com/16x12/tj.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABjElEQVQokX2SzWpTURSFv31zGwkq1UuKSiKlKNqxBQP2QfJEfQNfwUGhIweC0w4CkUgpOPDnRko1WJCWotHb+3P2cpCkTUNwweLA3uus/XOOvW00XnhZdl3qyP2+S+ZR9Afpm8xS4HNlNqyiaORleQbUiOM27s/dvWtvQKvADaDGBAEogWKO5TQuIALqwCkQC1idJjQniIHGXIwFjYCfQGxrayTdLo3tbWrNJmaGZxnF0RF5+oWLj5+4GA4pRiOUZQiIWy1udjq0trbgw+GhlsFDrvD7vcL4QHKXuyvkuUJRXGp6vZ4iarPJF1D8wOIEqz/E82PMjKheJ1pZuZS4O5GkpfelAs+GgM1t4Tr+awCGxgdUo5cYy7vMyxzbebWj/bN9+l/7nI/PwScF15N1Nu9t8jS5y8aDZ7STDZq3m1RVRXqSMkgH7L3ew+gi7nD1yL5ALZwzBuAUYgLwi8lvqabJqymuc2ZSAfnEJEYM+Msu4h2B74iASAi0EI9wniAeI9oEbuEIcUKgT2D3H6eQ9sE5am1LAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Thailand",
+        "english_name": "Thai",
+        "portuguese_br_name": "Tailandês",
+        "native_name": "ไทย",
+        "subtag": "th",
+        "country_flag_url": "https://flagcdn.com/16x12/th.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA81BMVEWMHjJtDBqEFCmAEymXIzttDBptDBmIGCyWIzuXIjuDFyyEFCaUITlvDRxlCRaNHjJ1EB51ER4kJ0P29/kkIT4qJ0YnJEL09fiDECIyL06PFCctKko0MVI2M1QvLErz9Pjx8vaMFyy6VWc5NlR5eIscGjCgHziqJUGXlqZhYHWSGS6GEybPz9fU1dzq6++wL0qQj6Hf3+Xr3+XSmqbEdITCanu2trq/t7vVoKtDQF5ZV29PTWrn2N7hvMa+vsjcu8J+fZBPTWby7fHExM7Lf4/Oz9HkwMqvanqbJkGdnKymp62KiJxmChd7DRyDR1DTrbW5XW2KCU41AAAAEnRSTlM8kx8ik8HhcsHhMcvW1TpMb0yjLzFyAAAAsUlEQVQIHQXBzUrDQBSA0e8yd+xgU0K68A9sXYgggkt9AsGnF3yA0k1EN1YbsSaTubmeI6gKoZSQxl5spvK8JdE7KH8wNOrr8grr+aHZ9yzV5ellNSLyBiikO7k+/ciOXX2PVc+ZtHJ+nN2IRgZhajRmt2iWAWGCUFe3h5vJVyULE3WUh40CCWpv4u7rRB7FPrlvvbIWlpcejnbajW33w7stfrsLl3kZgqeZ7zUNeFn8A6XpTqOREv8bAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Turkmenistan",
+        "english_name": "Turkmen",
+        "portuguese_br_name": "Turcomeno",
+        "native_name": "türkmençe",
+        "subtag": "tk",
+        "country_flag_url": "https://flagcdn.com/16x12/tm.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABvElEQVQokYWRu24TURCGv7O7ji/EwVcJEReEq1KRBpAQDQ0tZR6HDvEIvEJaXoAKIS6KkJBSBCKQCFGwEmPjy653z8xQeB3boqD4NZqj83/6Z8aVXzx92I5l93l3/KDrm1fGRXPPaoOxmf5wZl8RO3TqjwIJfmbO99AsjJSOit5Xld0o9vLGFwIqnbu0Bl1KhR5aX6MRVrYn8eSJn07xqSLOgyjg8KFBwcFQCRAhqIZsnR1wtfcL0pRqsUyzWiWqFHh0ZwcuF6BRgmYJWiWoF2F9DUQJUMFi4Vtk0DYmiTFMRnRHv4mAnfYWqCwkMkuSK0AUAmHzJKH/JaNoGagwTEZs1zq83H+Vm5aN896I5tRPZZDqBv2kDyKoKW+PP4MqmIEamILY7C2HRcgs2r045cjOcZcUNJx9VluYNTfqEkDnAC+87kQMJWLk43xe+z/gIoEJj7+nTFotDlIPNV0yzSG6CrpYos4S+Gu32Ni+DhKtbPlfrV4hQgR/HtPd/0D6RzmtOwhL4IAACNysOhbjZAKJz69g9jFJ/N7ZCe/VZccDQmGqDdBN1G5gdhuxm6h1MF1HzRA7RfQd6vf+ApdSYGMybt0PAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Botswana",
+        "english_name": "Tswana",
+        "portuguese_br_name": "Tswana",
+        "native_name": "Setswana",
+        "subtag": "tn",
+        "country_flag_url": "https://flagcdn.com/16x12/bw.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAA5FBMVEVbiqpqlrVplrVnlbRCcJVShKZXh6hijK5DcZRZiKRFc5dsmLZlkK5GdZhwnLlumrh0nrpKd5xKeZo5ZYhKe5xajK0+bJEAAABuqtNopdBrqNFhnst7sdVyrdSBttllos5Thal2rtR3sNZ8s9hxnLmYwd1WksFilbhfj7EnJyemyeBxq9N1dXVem8pbmMhNfaI/bZJtocNLS0uguMiTpbBVjrl3qstSirQNDQ1HSEiLm6ZYlsZaiqxsbGytz+aOm6VjY2OWo62Yrbt/f39fX1+Dk55XV1cfHx9Yi6+arr5ygo5RgaQd+8CyAAAAF3RSTlNy1rmV4SLLPJMx1eFMucjgkW9MOh8fyB+3aOsAAACuSURBVAjXRY5HEoJAFAW/CgLmDAgOjpIzJpI5h/vfxym1yt51L149YFqNZrVQLEGN69MMlEFdybKMV1FkGKZpGmNQEZpO5QnGo5EjDMUXqH8lrgSg2sfDbjHfaoi4oz0hTfgP1mx/cq83Hnjr7LqbmfXNSQoXGwkCRpo9X2TZQwvAJNtDUVQUSfI8Pw9hLfxU8nw/10kw7mNCvFzquh4HIfnK0D2u02brFYoasN03CdsZzmFzkZoAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Turkey",
+        "english_name": "Turkish",
+        "portuguese_br_name": "Turco",
+        "native_name": "Türkçe",
+        "subtag": "tr",
+        "country_flag_url": "https://flagcdn.com/16x12/tr.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAmVBMVEW1CBSxDBy0ChS1ChLEECG1ChXEDx+zBhK7CxekBAukBAu7EB/BDx+lBQukAwqsBRDfBxLhCBTjCRbcBhDkChnmDB3nESPlGCfACBPiECHCDBvKBhC7BxG2Bg/JDR6pBQzUBQ/XDiCiBArykJftYmvpLj3+9/evBg7pQUvua3ToOkTpSFL2tbnsU1773uD74OLlJC/4yMv0oKXZEm25AAAAEHRSTlNxOkw+k7nhIMrPkzHW4eAxRTVckwAAAIxJREFUCB0FwbtOw0AURdF9H7bGo0gUNNDk/z+LLqJCQICZ2L6HtcJy9djk5d0TNbvGABonR0F48gPGHRCFLnnA83rv7wWF6AlP5+/Xpy8ThHCk9iGsv0qI4ZAjqnybSAT2cuqqud54CIKLp3ibGo8pIiCSQjcEBADJdi6gI1hgN6yNSNp39T3Tdvv7B0iZRDABmb1FAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Tatarstan (Russia)",
+        "english_name": "Tatar",
+        "portuguese_br_name": "Tártaro",
+        "native_name": "Татарча",
+        "subtag": "tt",
+        "country_flag_url": "https://flagcdn.com/16x12/ru.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABtklEQVQokX2N22qTURCFv53sJH9ao8QGbEgVoaL0yl4pCj5H38lbr32Agm/gA4j1hHehRttqWxITaukh5j/MLC+SHjzgwDCLxaxvhV6v97goijVJD4FFScHdT4FvQE/Sppl9Bvbc/cDMyuVyecndH4QQ1kK321Wr1aJerxNjBMDdyfOcNE3Jsow0TcnznKIoAIgxkiQJw+GQKImFhQX+nCRJaDQaf/mXZzAYTAEAO4Mxw8MUgFqlxO3FORpzlf8CtvePiU9ffOLl5lf2vo/BBe6zKxabNe7dbLDcnufWjTnqtRJysTs45dXHPu/ebBB48kzUO2AXwfPVzNPZ+rRADm5w0iNiNg3b7+3ngH+Fz7Q7sWQFq9kWq9k21+yEmmUckTCgwZfQYiu0OKR+AZtB2sUB97MPhOcrK3pUnSBz5NMnSbPiqR5TZcQ8/XCViue07QdNO+L9JCc2iyNUjsgduc5DlyE1JnQ0oa3R1J/9mUSUG/sT56c5mYS7CEAZEQlUA1SBCJQkXCJ1cWyOuYgu3o5c605pI3Xf9TwzqpXrpYJOCLZsrrsu7kgsSbrikszVN/lrk63/AkXyWR36laTFAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Morocco",
+        "english_name": "Tamazight",
+        "portuguese_br_name": "Tamazigue",
+        "native_name": "Tamazight",
+        "subtag": "tzm",
+        "country_flag_url": "https://flagcdn.com/16x12/ma.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAsVBMVEWZISWYISWwPkKwOD6XIieEFBebHiOVHyGrMTeZIyaKFhqtNjyoMDamLDOoLzSLFhuHFBiEExd/EhV7EhLAIzm6ISbAJSu+IynHMzm4HyTFLjS8Iii1HSLBJy3HNz3GMDbDKTC4LTKaGyCiJCmoLTHEKzKtMzitGh+pIiZiRDBtPy7KOUCsKCylGh6IFRiyGyCfHSKVGB28MDaOMSqKOC+PGByBERWgLSp/NSuSODC9OUD1lRuwAAAAFHRSTlNxPjqRMc/LIOFMucjWlbmV4eCROv4qC8EAAACeSURBVAgdBcFBUsQgFATQ/tAJo5jJAi0tD+D976Q7FynNaKB/EN+zYJcOhrHfeYTGbG+PH4BeN2QcmKBYPEnQ0BHO81afCOxC8ocwvDcjwt+uFEq6vvTfZhQJJc/b5ceW9ZMiApJnP93GslGMjcOz9/Y8JhcYAWKuDfZOFSKiDKI3AyV+RRTUlUst30C6dgh1vofNshl9Olb3bLfF/gF7z1CIHmHAZAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "China",
+        "english_name": "Uyghur",
+        "portuguese_br_name": "Uigur",
+        "native_name": "ئۇيغۇرچە",
+        "subtag": "ug",
+        "country_flag_url": "https://flagcdn.com/16x12/cn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAt1BMVEW9FyDLJjHKKjCwDxa/FR27GR+6HiS7FR67GR+uDRSwDhTBJCqvDhOxFRqrDRKtDhPIIi3KJTDLJzHtGSHrFR3uGiPuHCXsFx/sGCDvHSfpExrvISvwJC7vHyixDhXAExrwKDDYEhnGHyjIExu5EhnwIyvGGiPXICrxOS3qKDPyUh/LGiLSFx/CFyCrCxH0bx/JJC7xYSf80grfExriExnhEhjwMynKDhT2hh3pSy/fLDfNKTXLJzOYq9JTAAAAE3RSTlNxk8+5yz46IEyT1THhMcjgueHgRqUxcQAAAJFJREFUCNclzNEOwiAMheFDKTCNCToTX8b3fxcvjBpdYI5CHfPyy39a6xudhiV+MQRiamyuqi8McwO4wJkPm2TiLceUQFIVkaaMLBISdTcLBh7AYdpycwp+N9E9PVd214UhShOk02pdX0P/a6zzCg/mIrKxZw9Q6HZb7j4yzln6ZcNozP2SDYsj+DLvlkBWS/0B7KFVHvCyRgEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Ukraine",
+        "english_name": "Ukrainian",
+        "portuguese_br_name": "Ucraniano",
+        "native_name": "українська",
+        "subtag": "uk",
+        "country_flag_url": "https://flagcdn.com/16x12/ua.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABcUlEQVQokYWQzU4UURCFv3v70gwJjMYQJDA70J3GlRqIz8ETsPGBTHwEwo5HYAchLtRIJJgYBSMB+REG0tNdp1h0wzATiYuTW3/nnKobxt6uLpQVS272SvJpN0J067r8Z5B2ETsB+xYr7ZfOMUUvS1nsyHgp2VJgedXJJyDkQAZyMIOqBCuhLOq3KkEG5kAAcrg6JmGCkTaYarI3AzGD0IJsvF/XHZige0jCrE7sTtOHY4YE1BgaqU58cINbMv8QbeZkYFaf0E4XvHi8w9yDfYKcw26bvb+T7P6Z4bwc65P9RkBgxuuZL4R375/78pvPpCCA2tW5jQ8uHvL1qMP30ymkQHBnsnXGYmebT9uXhI9r+LMng6QBDNfUj9c/QJL+Q7gPzSXJhwXuA4PuNP+Y3OHHL+heQa8HLogBRjIYTdDKa+QJUqz7RQEn5zcCYuvgiJVSbKpgLwqr4FGMzBKYk/EUMY/TcWdcws347cZGz1i5BoBSJUscY9XPAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Pakistan",
+        "english_name": "Urdu",
+        "portuguese_br_name": "Urdu",
+        "native_name": "اُردو",
+        "subtag": "ur",
+        "country_flag_url": "https://flagcdn.com/16x12/pk.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAqFBMVEUAJQ7R0dHS0tIBNBUBNhkAJQ0CORwANRgCLRQBMBQCQyADRCIDRiIESSQAIg0BSSTV1dXY2NgAKA/KysrDw8P///8AMRMAPhkAORcBOxj8/f0BRR8ASCEESyUBQBsALhIANhUAJg4AQhw9a1EATyfPz88AKxAkWjrn6+jT09PW1tYZTy8AIguTrJ1ykn8NRSXK1s/29vbY2Njd4t9UgmhvjXu0xbtlhnLPbe5gAAAAFXRSTlPdPMrLTJMxIDxxb5W51sjh4JG5dCJm+ep4AAAAkklEQVQIHQXBYQqCQBCA0W+m0XETosx/QYfo/vcRggKR1VbF6T2R63iJIyJWFURWec2JiRLhWQkO+32oziCshu8FAyiE3wYno7UCRMh18K3tNVwDiKjzKXdCNBiAY5+uvImGzQB28qNeVoS5tR0o6PLr/PhOoACqjH7M34nUGs9lGxPLACTfQO/Se22p6oBL1fwBj6xAbT4fJaEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Uzbekistan",
+        "english_name": "Uzbek",
+        "portuguese_br_name": "Usbeque",
+        "native_name": "Uzbek/Ўзбек",
+        "subtag": "uz",
+        "country_flag_url": "https://flagcdn.com/16x12/uz.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAB1UlEQVQokZ2P30pUYRTFf9/nNzPOKGM6lSNKmkUQdBEECkV15yv4CL1FL9B1L9Cd9AbhRYRdFBFkRn/QEtRSc0Zn5DTOOefbq4szUdctWOwFe/8WbFd9/PR21bN8lueLvSxvTgTvgpQc9rMdJ9tE+uLMtnwe9zIf2+R+KGAzlsUFk5ZDL2Yv785e4lk7YaxcBgdBQt3kurJ0iSyDLCW6DPIIXuQuQLkEnWMCZjTGxxlOIgIyieA9VIahXAGpsAnEIBtEg/YRgWi82z3kXqtNPe3j05R+vc7HVoedRoNeqfxPwWCaQYzcOD0hPKrCg1vzjM7fxznHHylG+pvbfD065lu3x17So5WcUbNI8/w5Fi6M8eNmAzY2NvS/Wltbk5fE/8rMCNZP+f7iOW9b6/zMjzGJmkpMjUwxNzLDZHOOyuVZ/HDl73t5zsn6e1ZXn+CWHt7R1qInd4aZIQmZQEUe7UaaB5Epq1Mp10DGfnefT9NGZzshfJjsEVy1gM2QCQ1gTHRr0JnzfLZTpE6xvzi4jUaIFrGDX1gvR2lRAEIeXACCKzwEcirAfsSSWBQQ7Y1O4oqP7rVl2W4ah2LJ3AQum45wRVHXkF3FmJFsVCYp2r5FvYqmld/eTnng2aZPVgAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "Vietnam",
+        "english_name": "Vietnamese",
+        "portuguese_br_name": "Vietnamita",
+        "native_name": "Tiếng Việt",
+        "subtag": "vi",
+        "country_flag_url": "https://flagcdn.com/16x12/vn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAsVBMVEWtIBitHxvANy6+NCqrHxmsIhybFA6rHhWcEw+qJB69MSi6Lia8MCe6LSS5KyKvHRefFhGvHheYEg7XIRnRGxXUHhfbKB/ZIxveMSfdLiXcKyLaJR24Jh6vGhTfNSu8IBikFxHKGBOaEg2+MinZNCrBKiHneQ/laxP//wDBGRPslQ3jVxq1FxGzHxfQNy3gOS/lZBn2zgbvpQr99QHzwQb54ATgSRvytQvNLSTTLybbOhdffWwzAAAAE3RSTlNxPpHITDGTIN064NbhuZXLucvIlGfeqQAAAJRJREFUCB0FwYmNwkAQRcHX7ZmBxYBlBFqJHDb/eAjA3OYY/rqpsp+3zTzcrsmcGl3atw9gFwNP+itTwiqVMRxxFMU5UTHrepElNcmpxu9necuScNJTZpR8aWfjgEOzDtM0hn3qgBPFMZHV+hJ3Ak8oS5of2EIA9ncUAgcCVpZIm3OB7p8XzJuH9ScrTKGyeMHi3nwB6XJDP9vKlHQAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "Senegal",
+        "english_name": "Wolof",
+        "portuguese_br_name": "Wolof",
+        "native_name": "Wolof",
+        "subtag": "wo",
+        "country_flag_url": "https://flagcdn.com/16x12/sn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABlUlEQVQokW2SwWoTYRSFvz+TZBJqECRY0eDGIrgVUXDhUnwAoSvfwnfQF/Ad7Du47UKpa7GoFLRSbElbQpNMZu45LmaSVsnig/9f3MM5597Uf/vyaali25WeSLplRXr3KLt4tumfWN+E9y19n+5ND2dvjsazTmQdZ6Mo9ZiI7fasKnbpt2EjQTJI3B6Zuzf1oFjE86IIioXxvGKRYKNMZApy4MSiTQT0c7BAhmQ6XRgMEgO3gAS0mG52OcvaWMZJ2OJPJdooqNElBmxA1B+BA0s1GNuETYtYDsYlDiD4cR6M54HdIGG7diEjmxYKiCs0Ap+Pg1cfSl7vlnw9DWw1uEGE3XTwXwwbHg5NL4nDidm6npgjZMNKoHawVgAnQub9C/N7YjK8sr9eIK4I2NiQJRjmZpgvi6xtY1ZR6ghrt5DqGdRsw/BP/qWD5R2Mp1CUUNa3cLCf+FIk8jzRy6GXw2JeUajuobA4b95t7D0mix1Inyj1i3kVXHRvHJ9Wd1pwz477krdmB7PRWbW4ZuwwRyF/rKSdv1Cvl3LRH5U/AAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "South Africa",
+        "english_name": "Xhosa",
+        "portuguese_br_name": "Xhosa",
+        "native_name": "isiXhosa",
+        "subtag": "xh",
+        "country_flag_url": "https://flagcdn.com/16x12/za.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACVUlEQVQokU2QTUiUcRCHn/d9V1dN2U1btdzIUoNSLOkLPVQHoUMXRUmMgq6h0iEiqENKEGSnCCLE6EMouuSlQ6eoU/lBlofSLFA2dctVK9dad///mQ6r2cDw8DvMM8w42Z2n6kzKtLTvOXroTEao+Of9O46Nx5dViIiYzyifEPsl6brTauyCpoznQFjFHsSaFodLJ5QsH3gO+4u3c6+umeDdXpZH37FiDUkrJK0hZQQrgorgqeBXiCWTeOeaNnYub9jAd+NjJr5A38QQVY2t1GQF8CbGyHUdAq5L0OeR77nkey5BzyXXdZhNJPEKfi12Xiidp7k8ydulLKJ/LP1jA5g9NdTvO0xy8DVqDKxuVxFUFRVhLpCPAyhA1Y5MbrQV8TyvlJuRAlDhWFkNjw40kDk5hYnOIIkEKHiFRaQqKuh+82JdsFa95zfh31vC6Q9hUAURtgVClAYLQQRUiS39YGx2Eju9uC5wXbhyOsju+jDnJjYzk/BWBfpPhKxRwArlNi8tyPY79F0u5FmgjPszARAh0/VxtvY4TZWHicZjRBbnWF75jc/xCOUG2JoR5umDVzjZfkcfdm2h2+5k6KcfRGmorOVi7Un6H09xq2cA14HiwhzCJXkkEikmp2J8+/YLTATnWltIHxRVM76UQSgnj9uNHUQH/XRdf0VsPp6+UOU/SppqwUbw9VHK+LShumAzHbuaudb+kpH3s4ADuKvtrWbSg5oC/QNq8X2MZw77ME+uHmkd7OkZ/ToyPGXJIh8rJYiW4chOVMpBwojkpj9qo4gdwMqTv4q/LeuwzdjbAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Nigeria",
+        "english_name": "Yoruba",
+        "portuguese_br_name": "Iorubá",
+        "native_name": "Yoruba",
+        "subtag": "yo",
+        "country_flag_url": "https://flagcdn.com/16x12/ng.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABUUlEQVQokYWQOUoDYRTHf5OZJBPMNCK4hTRKwAsoKFh6hdh6Bi/hCbyAlYewESwU+2BciLhgkyAkMc7y3rOYDFmM8cHjK773X53SydFurEndzHZUZMVUnNO9w/7+au0FeDCzpog8Xjw33o4vzzpo5Hqaq6jptorUvYEmV5Ty4DngACqsVStUV6tbYRgeRFFEGIbErkDOwHFJXCDnQjfCQwRKJVBN14F8oUAQBARBQDbLvRYsLYAN70Tgsz8kUBkRqIIZv8Zs8k7S9UZAmU+ApapqIweiQwfjLkzT4+nJgGPqiOClwMkY9leEzIGMHI918E8Ey4A68c6IYHMIZAbBtLrqHx2OOfhVYqcPYQRx+tm6u6chZYrFIr7v4/s+318DiGIQgziBQZyVqLf0wnNEb4j1FUfFomSx3W6vAxuqWgM2nxrNCu/dMmqG6gci1yR6/gPOVjaE//1FsAAAAABJRU5ErkJggg=="
+    },
+    {
+        "language_country_name": "China",
+        "english_name": "Chinese",
+        "portuguese_br_name": "Chinês",
+        "native_name": "中文",
+        "subtag": "zh",
+        "country_flag_url": "https://flagcdn.com/16x12/cn.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAt1BMVEW9FyDLJjHKKjCwDxa/FR27GR+6HiS7FR67GR+uDRSwDhTBJCqvDhOxFRqrDRKtDhPIIi3KJTDLJzHtGSHrFR3uGiPuHCXsFx/sGCDvHSfpExrvISvwJC7vHyixDhXAExrwKDDYEhnGHyjIExu5EhnwIyvGGiPXICrxOS3qKDPyUh/LGiLSFx/CFyCrCxH0bx/JJC7xYSf80grfExriExnhEhjwMynKDhT2hh3pSy/fLDfNKTXLJzOYq9JTAAAAE3RSTlNxk8+5yz46IEyT1THhMcjgueHgRqUxcQAAAJFJREFUCNclzNEOwiAMheFDKTCNCToTX8b3fxcvjBpdYI5CHfPyy39a6xudhiV+MQRiamyuqi8McwO4wJkPm2TiLceUQFIVkaaMLBISdTcLBh7AYdpycwp+N9E9PVd214UhShOk02pdX0P/a6zzCg/mIrKxZw9Q6HZb7j4yzln6ZcNozP2SDYsj+DLvlkBWS/0B7KFVHvCyRgEAAAAASUVORK5CYII="
+    },
+    {
+        "language_country_name": "South Africa",
+        "english_name": "Zulu",
+        "portuguese_br_name": "Zulu",
+        "native_name": "isiZulu",
+        "subtag": "zu",
+        "country_flag_url": "https://flagcdn.com/16x12/za.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACVUlEQVQokU2QTUiUcRCHn/d9V1dN2U1btdzIUoNSLOkLPVQHoUMXRUmMgq6h0iEiqENKEGSnCCLE6EMouuSlQ6eoU/lBlofSLFA2dctVK9dad///mQ6r2cDw8DvMM8w42Z2n6kzKtLTvOXroTEao+Of9O46Nx5dViIiYzyifEPsl6brTauyCpoznQFjFHsSaFodLJ5QsH3gO+4u3c6+umeDdXpZH37FiDUkrJK0hZQQrgorgqeBXiCWTeOeaNnYub9jAd+NjJr5A38QQVY2t1GQF8CbGyHUdAq5L0OeR77nkey5BzyXXdZhNJPEKfi12Xiidp7k8ydulLKJ/LP1jA5g9NdTvO0xy8DVqDKxuVxFUFRVhLpCPAyhA1Y5MbrQV8TyvlJuRAlDhWFkNjw40kDk5hYnOIIkEKHiFRaQqKuh+82JdsFa95zfh31vC6Q9hUAURtgVClAYLQQRUiS39YGx2Eju9uC5wXbhyOsju+jDnJjYzk/BWBfpPhKxRwArlNi8tyPY79F0u5FmgjPszARAh0/VxtvY4TZWHicZjRBbnWF75jc/xCOUG2JoR5umDVzjZfkcfdm2h2+5k6KcfRGmorOVi7Un6H09xq2cA14HiwhzCJXkkEikmp2J8+/YLTATnWltIHxRVM76UQSgnj9uNHUQH/XRdf0VsPp6+UOU/SppqwUbw9VHK+LShumAzHbuaudb+kpH3s4ADuKvtrWbSg5oC/QNq8X2MZw77ME+uHmkd7OkZ/ToyPGXJIh8rJYiW4chOVMpBwojkpj9qo4gdwMqTv4q/LeuwzdjbAAAAAElFTkSuQmCC"
+    }
+]

@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Language Data",
+  "description": "A schema for validating language data that includes country, language names in English and Portuguese, subtags, and flag information.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "language_country_name": {
+        "type": "string",
+        "description": "The name of the country or region primarily associated with the language."
+      },
+      "english_name": {
+        "type": "string",
+        "description": "The English name of the language."
+      },
+      "portuguese_br_name": {
+        "type": "string",
+        "description": "The Portuguese (Brazil) translation of the language name."
+      },
+      "native_name": {
+        "type": "string",
+        "description": "The native name of the language."
+      },
+      "subtag": {
+        "type": "string",
+        "description": "The subtag according to IETF language tag standards."
+      },
+      "country_flag_url": {
+        "type": "string",
+        "format": "uri",
+        "description": "URL to an image of the country's flag."
+      },
+      "country_flag_base64": {
+        "type": ["string", "null"],
+        "description": "Base64-encoded image of the country's flag."
+      }
+    },
+    "required": ["language_country_name", "english_name", "portuguese_br_name", "native_name", "subtag", "country_flag_url", "country_flag_base64"]
+  }
+}
