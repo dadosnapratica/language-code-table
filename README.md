@@ -174,10 +174,10 @@ Language codes are used to identify the language of content in various applicati
 
 To access the language code tables and related schema, use the links below:
 
-- **CSV Format Table**: [Download CSV Table](link_to_csv) or use direct in your program with http request to https://xxxx
-- **JSON Format Table**: [Download JSON Table](link_to_json) or use direct in your program with http request to https://xxxx
+- **CSV Format Table**: [Download CSV Table](https://github.com/dadosnapratica/language-code-table/blob/main/data/dadosnapratica_language_code.csv) or use direct in your program with http request to https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/dadosnapratica_language_code.csv
+- **JSON Format Table**: [Download JSON Table](https://github.com/dadosnapratica/language-code-table/blob/main/data/dadosnapratica_language_code.json) or use direct in your program with http request to https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/dadosnapratica_language_code.json
 
-- **JSON Schema**: [Download JSON Schema](link_to_json_schema) or use direct in your program with http request to https://xxxx
+- **JSON Schema**: [Download JSON Schema](https://github.com/dadosnapratica/language-code-table/blob/main/data/dadosnapratica_language_code_schema.jsona) or use direct in your program with http request to https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/dadosnapratica_language_code_schema.json
 
 
 ## Examples of Language Code Usage in Programming
