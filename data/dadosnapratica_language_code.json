@@ -249,7 +249,7 @@
         "native_name": "euskara",
         "subtag": "eu",
         "country_flag_url": "https://flagcdn.com/16x12/es-pv.png",
-        "country_flag_base64": null
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAAAe0lEQVQ4T6WSQQ7DIAwEocqz+P34X5sLTo1jqiqZE7BmWVt0QO0F3Q3GGFnbYmbfDSBJAuTrX8QaQJdBVZDJGqBPjNZmK0vEGdnMyjY7oEqIJpXeZs0tgbO7lDnyQQuvu0neL1SD2ZG12xB3g3KqAV8fyQv+IZosBk84AXkJ55QicxK7AAAAAElFTkSuQmCC"
     },
     {
         "language_country_name": "Iran",
@@ -339,7 +339,7 @@
         "native_name": "galego",
         "subtag": "gl",
         "country_flag_url": "https://flagcdn.com/16x12/es-ga.png",
-        "country_flag_base64": null
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAAAe0lEQVQ4T6WSQQ7DIAwEocqz+P34X5sLTo1jqiqZE7BmWVt0QO0F3Q3GGFnbYmbfDSBJAuTrX8QaQJdBVZDJGqBPjNZmK0vEGdnMyjY7oEqIJpXeZs0tgbO7lDnyQQuvu0neL1SD2ZG12xB3g3KqAV8fyQv+IZosBk84AXkJ55QicxK7AAAAAElFTkSuQmCC"
     },
     {
         "language_country_name": "Switzerland",
@@ -401,8 +401,8 @@
         "portuguese_br_name": "Sérvio-Croata",
         "native_name": "srpskohrvatski/српскохрватски",
         "subtag": "hrv",
-        "country_flag_url": "[Historical]",
-        "country_flag_base64": null
+        "country_flag_url": "https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/generic_flag.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAAAe0lEQVQ4T6WSQQ7DIAwEocqz+P34X5sLTo1jqiqZE7BmWVt0QO0F3Q3GGFnbYmbfDSBJAuTrX8QaQJdBVZDJGqBPjNZmK0vEGdnMyjY7oEqIJpXeZs0tgbO7lDnyQQuvu0neL1SD2ZG12xB3g3KqAV8fyQv+IZosBk84AXkJ55QicxK7AAAAAElFTkSuQmCC"
     },
     {
         "language_country_name": "Sorbia (Germany)",
@@ -563,8 +563,8 @@
         "portuguese_br_name": "Curdo",
         "native_name": "Kurdî/کوردی",
         "subtag": "ku",
-        "country_flag_url": "[Regional]",
-        "country_flag_base64": null
+        "country_flag_url": "https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/generic_flag.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAAAe0lEQVQ4T6WSQQ7DIAwEocqz+P34X5sLTo1jqiqZE7BmWVt0QO0F3Q3GGFnbYmbfDSBJAuTrX8QaQJdBVZDJGqBPjNZmK0vEGdnMyjY7oEqIJpXeZs0tgbO7lDnyQQuvu0neL1SD2ZG12xB3g3KqAV8fyQv+IZosBk84AXkJ55QicxK7AAAAAElFTkSuQmCC"
     },
     {
         "language_country_name": "Kyrgyzstan",
@@ -1004,8 +1004,8 @@
         "portuguese_br_name": "Siríaco",
         "native_name": "ܣܘܪܝܝܐ",
         "subtag": "syc",
-        "country_flag_url": "[Regional]",
-        "country_flag_base64": null
+        "country_flag_url": "https://raw.githubusercontent.com/dadosnapratica/language-code-table/refs/heads/main/data/generic_flag.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAAAe0lEQVQ4T6WSQQ7DIAwEocqz+P34X5sLTo1jqiqZE7BmWVt0QO0F3Q3GGFnbYmbfDSBJAuTrX8QaQJdBVZDJGqBPjNZmK0vEGdnMyjY7oEqIJpXeZs0tgbO7lDnyQQuvu0neL1SD2ZG12xB3g3KqAV8fyQv+IZosBk84AXkJ55QicxK7AAAAAElFTkSuQmCC"
     },
     {
         "language_country_name": "India",
