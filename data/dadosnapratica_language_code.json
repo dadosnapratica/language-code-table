@@ -1177,5 +1177,14 @@
         "subtag": "zu",
         "country_flag_url": "https://flagcdn.com/16x12/za.png",
         "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAACVUlEQVQokU2QTUiUcRCHn/d9V1dN2U1btdzIUoNSLOkLPVQHoUMXRUmMgq6h0iEiqENKEGSnCCLE6EMouuSlQ6eoU/lBlofSLFA2dctVK9dad///mQ6r2cDw8DvMM8w42Z2n6kzKtLTvOXroTEao+Of9O46Nx5dViIiYzyifEPsl6brTauyCpoznQFjFHsSaFodLJ5QsH3gO+4u3c6+umeDdXpZH37FiDUkrJK0hZQQrgorgqeBXiCWTeOeaNnYub9jAd+NjJr5A38QQVY2t1GQF8CbGyHUdAq5L0OeR77nkey5BzyXXdZhNJPEKfi12Xiidp7k8ydulLKJ/LP1jA5g9NdTvO0xy8DVqDKxuVxFUFRVhLpCPAyhA1Y5MbrQV8TyvlJuRAlDhWFkNjw40kDk5hYnOIIkEKHiFRaQqKuh+82JdsFa95zfh31vC6Q9hUAURtgVClAYLQQRUiS39YGx2Eju9uC5wXbhyOsju+jDnJjYzk/BWBfpPhKxRwArlNi8tyPY79F0u5FmgjPszARAh0/VxtvY4TZWHicZjRBbnWF75jc/xCOUG2JoR5umDVzjZfkcfdm2h2+5k6KcfRGmorOVi7Un6H09xq2cA14HiwhzCJXkkEikmp2J8+/YLTATnWltIHxRVM76UQSgnj9uNHUQH/XRdf0VsPp6+UOU/SppqwUbw9VHK+LShumAzHbuaudb+kpH3s4ADuKvtrWbSg5oC/QNq8X2MZw77ME+uHmkd7OkZ/ToyPGXJIh8rJYiW4chOVMpBwojkpj9qo4gdwMqTv4q/LeuwzdjbAAAAAElFTkSuQmCC"
+    },
+    {
+        "language_country_name": "Brasil",
+        "english_name": "Portuguese",
+        "portuguese_br_name": "Português",
+        "native_name": "Português Braileiro",
+        "subtag": "pt-BR",
+        "country_flag_url": "https://flagcdn.com/16x12/br.png",
+        "country_flag_base64": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAABKVBMVEUAZR8AcicAXxwAYh0DkEQCfDEAgjMBey4Hj0UAZCEAey0AfC0Dk0cBkUQAbyUDhjkAaCIAbCQAaiIAbCUBiz4CiDwAj0ICjUAClDQAiC0CmDcAlDUAhDQDmjoAgykApkoAeSoAnj7+2wAEKXcAYR0AciUAnDsAqU0AjD0PkiwGoUDn2wUApEr/4QANMHYAayMAk0cAfi4AiTgCjC3bzwYgmSoMpkFrrxwBfCcAnkh3wCMXqD260BJErCksUYhcakwbRYIBJHEAZyEAj0M6sjcAgDIAdimwwg7k1QVRpR+NvxiXwxeQjDiBgDXOuxU8TVL/4ABeuix8j3BXep5HcZnWwxHFwxS9txff1grEygtZZEfl0gR2gUNpdkcGgSkUNm0zT2WutVo+WV0J7e6YAAAAGHRSTlPhIJHIkz4gdDU1y8vI4ExM1ZW5b7lv4dZEvZGLAAAAxElEQVQIHQXBTW+CQBAA0Blm1wUUET+atLH2YDE9Nd78//9BL3poGhUoVTFFAYGd7XtotzY6qK9B/WAwFokPJwdg/8AjNwXQSsAFKq+H/cBEUpa4EKND5YVKdJqH9XMD/CJVTZ34rThu5spL2CgBYWyB2Q6W32b/mf11aNa41Xt8zhNvnJxtpYkwE32nePaz3m94Smc4lbLU8xe6czxJI+jSKi81nnio9rzLQRL5l6eGRNFO1gXRaw3YbbkFW0pGvgIZ9Q9jQFZ8vSmNWwAAAABJRU5ErkJggg=="
     }
 ]
