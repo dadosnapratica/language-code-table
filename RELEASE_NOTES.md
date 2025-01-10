@@ -1,5 +1,8 @@
 # Release Notes - Program Updates
 
+2025-01-10 - Updates - tag v1.0.1
+Add Brazilian Portuguese
+
 2025-01-09 - Updates - tag v1.0.0
 -----
 **1. Correct Handling of Invalid URLs**
